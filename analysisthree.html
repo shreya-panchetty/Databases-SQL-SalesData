@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Customers</title>
+
+    <style>
+        body {
+            margin: 0;
+        }
+
+        .navbar {
+            overflow: hidden;
+            background-color: rgb(248, 167, 61);
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+
+        .navbar a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .navbar a:hover {
+            background: #4F91CD;
+            color: black;
+        }
+
+        .main {
+            padding: 16px;
+            margin-top: 30px;
+            height: 1500px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+    <a href="/">Home</a>
+    <a href="analysis">Analytics</a>
+    <a href="analysistwo">Analytics-2</a>
+    <a href="analysisthree">Analytics-3</a>
+    <a href="customer">Customers</a>
+    <a href="product">Products</a>
+    <a href="orders">Orders</a>
+    <a href="shipment">Shipment</a>
+    <a href="payment">Payment</a>
+    </div>
+
+    <div class="main">
+        <br><br>
+        <h1>Analysis Page</h1>
+        <h3>Distribution of shipment mode and profits: </h3>
+        <table style="width:100%" border="1">
+            <tr>
+                <th>Product market</th>
+                <th>Profits</th>
+            </tr>
+            {{#topanalysis}}
+            <tr>
+                <td>{{customer_country}}</td>
+                <td>{{SUM(payment_sales)}}</td>
+            </tr>
+            {{/topanalysis}}
+        </table><br>
+    </div>
+</body>
+
+</html>

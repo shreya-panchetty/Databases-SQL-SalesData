@@ -1,0 +1,996 @@
+orderdate,shipdate,shipmode,customername,segment,country,market,category,productname,sales,quantity,profit,shippingcost,row_no
+2011-01-01,2011-06-01,Standard Class,Toby Braunhardt,Consumer,Algeria,Africa,Office Supplies,Tenex Lockers,408,2,106.14,35.46,1
+2011-01-01,2011-08-01,Standard Class,Joseph Holt,Consumer,Australia,APAC,Office Supplies,Acme Trimmer,120,3,36.036,9.72,2
+2011-01-01,2011-05-01,Second Class,Annie Thurman,Consumer,Hungary,EMEA,Office Supplies,Tenex Box,66,4,29.64,8.17,3
+2011-01-01,2011-05-01,Second Class,Eugene Moren,Home Office,Sweden,EU,Office Supplies,Enermax Note Cards,45,3,-26.055,4.82,4
+2011-01-01,2011-08-01,Standard Class,Joseph Holt,Consumer,Australia,APAC,Furniture,Eldon Light Bulb,114,5,37.77,4.7,5
+2011-01-01,2011-08-01,Standard Class,Joseph Holt,Consumer,Australia,APAC,Office Supplies,Eaton Computer Printout Paper,55,2,15.342,1.8,6
+2011-02-01,2011-06-01,Standard Class,Magdelene Morse,Consumer,Canada,Canada,Technology,Okidata Inkjet,314,1,3.12,24.1,7
+2011-03-01,2011-03-01,Same Day,Kean Nguyen,Corporate,Australia,APAC,Office Supplies,Hoover Microwave,276,1,110.412,125.32,8
+2011-03-01,2011-09-01,Standard Class,Ken Lonsdale,Consumer,New Zealand,APAC,Technology,Hewlett Wireless Fax,912,4,-319.464,107.1,9
+2011-03-01,2011-07-01,Standard Class,Lindsay Williams,Corporate,Iraq,EMEA,Furniture,Novimex Swivel Stool,667,4,253.32,81.26,10
+2011-03-01,2011-07-01,Second Class,Larry Blacks,Consumer,Philippines,APAC,Office Supplies,Tenex Lockers,338,3,-122.8005,33.75,11
+2011-03-01,2011-07-01,Second Class,Larry Blacks,Consumer,Philippines,APAC,Furniture,Chromcraft Round Table,211,1,-70.3995,21.32,12
+2011-03-01,2011-07-01,Standard Class,Dorothy Dickinson,Consumer,United Kingdom,EU,Furniture,Dania Corner Shelving,854,7,290.43,12.56,13
+2011-03-01,2011-09-01,Standard Class,Dennis Pardue,Home Office,Malaysia,APAC,Technology,Hewlett Fax and Copier,193,1,50.13,10.4,14
+2011-03-01,2011-09-01,Standard Class,Ken Lonsdale,Consumer,New Zealand,APAC,Furniture,Hon Rocking Chair,159,2,-95.676,10.07,15
+2011-03-01,2011-07-01,Standard Class,Stewart Visinsky,Consumer,Guatemala,LATAM,Technology,Nokia Headset,195,4,44.88,8.43,16
+2011-03-01,2011-07-01,Standard Class,Jas O'Carroll,Consumer,Iran,EMEA,Office Supplies,Breville Coffee Grinder,123,2,42.9,8.41,17
+2011-03-01,2011-09-01,Standard Class,Ken Lonsdale,Consumer,New Zealand,APAC,Technology,Belkin Numeric Keypad,69,2,3.42,8.34,18
+2011-03-01,2011-09-01,Standard Class,Ken Lonsdale,Consumer,New Zealand,APAC,Furniture,SAFCO Chairmat,69,2,-26.412,8.17,19
+2011-03-01,2011-08-01,Standard Class,Chris McAfee,Consumer,Thailand,APAC,Office Supplies,Smead File Cart,135,2,-45.9018,7.74,20
+2011-03-01,2011-03-01,Same Day,Kean Nguyen,Corporate,Australia,APAC,Office Supplies,Avery Color Coded Labels,36,3,4.743,7.46,21
+2011-03-01,2011-08-01,Second Class,Nat Gilpin,Corporate,Iran,EMEA,Office Supplies,BIC Sketch Pad,52,1,7.77,5.91,22
+2011-03-01,2011-07-01,Standard Class,Jas O'Carroll,Consumer,Iran,EMEA,Office Supplies,Rogers Folders,62,2,8.7,5.16,23
+2011-03-01,2011-08-01,Standard Class,Jack Garza,Consumer,Tanzania,Africa,Office Supplies,Stiletto Scissors,81,4,26.76,5.11,24
+2011-03-01,2011-07-01,Standard Class,Lindsay Williams,Corporate,Iraq,EMEA,Office Supplies,Cameo Interoffice Envelope,47,1,17.07,3.57,25
+2011-03-01,2011-07-01,Second Class,Larry Blacks,Consumer,Philippines,APAC,Office Supplies,Stockwell Staples,6,1,0.546,0.8,26
+2011-03-01,2011-07-01,Standard Class,Jas O'Carroll,Consumer,Iran,EMEA,Office Supplies,Advantus Rubber Bands,17,1,4.17,0.54,27
+2011-04-01,2011-09-01,Second Class,Russell Applegate,Consumer,Brazil,LATAM,Furniture,Dania Classic Bookcase,1,6,609.84,109.13,28
+2011-04-01,2011-09-01,Standard Class,Maya Herman,Corporate,Mexico,LATAM,Technology,Enermax Keyboard,223,4,13.28,42.28,29
+2011-04-01,2011-11-01,Standard Class,Beth Thompson,Home Office,Cuba,LATAM,Office Supplies,Jiffy Interoffice Envelope,186,6,3.6,16.39,30
+2011-04-01,2011-08-01,Standard Class,Arthur Prichep,Consumer,France,EU,Office Supplies,Binney & Smith Sketch Pad,140,3,20.88,10.78,31
+2011-04-01,2011-09-01,Second Class,Russell Applegate,Consumer,Brazil,LATAM,Office Supplies,Fiskars Letter Opener,149,8,28.16,10.38,32
+2011-04-01,2011-09-01,Standard Class,Maya Herman,Corporate,Mexico,LATAM,Technology,Sharp Ink,166,2,49.42824,9.54,33
+2011-04-01,2011-11-01,Standard Class,Beth Thompson,Home Office,Brazil,LATAM,Office Supplies,Jiffy Interoffice Envelope,74,6,-107.856,7.04,34
+2011-04-01,2011-08-01,Standard Class,Arthur Wiediger,Home Office,Cuba,LATAM,Furniture,SAFCO Chairmat,38,1,6.88,4.25,35
+2011-04-01,2011-08-01,Standard Class,Arthur Wiediger,Home Office,Cuba,LATAM,Technology,Memorex Mouse,38,2,2.24,3.94,36
+2011-04-01,2011-08-01,Standard Class,Arthur Wiediger,Home Office,Cuba,LATAM,Office Supplies,Kraft Peel and Seal,39,3,7.68,3.51,37
+2011-04-01,2011-09-01,Standard Class,Grant Thornton,Corporate,United Kingdom,EU,Office Supplies,Boston Markers,27,2,-21.9,2.11,38
+2011-04-01,2011-08-01,Standard Class,Darren Powers,Consumer,United States,US,Office Supplies,Message Book,16,2,5.5512,1.82,39
+2011-04-01,2011-08-01,Standard Class,Bradley Drucker,Consumer,Japan,APAC,Office Supplies,Harbour Creations File Folder Labels,27,3,13.68,1.54,40
+2011-04-01,2011-09-01,Standard Class,Grant Thornton,Corporate,United Kingdom,EU,Office Supplies,Eldon Folders,17,2,-1.05,0.9,41
+2011-04-01,2011-08-01,Standard Class,Jasper Cacioppo,Consumer,Sudan,Africa,Office Supplies,Boston Pens,15,1,2.61,0.82,42
+2011-04-01,2011-08-01,Standard Class,Jasper Cacioppo,Consumer,Sudan,Africa,Office Supplies,Avery Hole Reinforcements,6,1,2.1,0.51,43
+2011-05-01,2011-09-01,Standard Class,Jennifer Halladay,Consumer,Mexico,LATAM,Office Supplies,Hoover Stove,3,8,999.36,191.2,44
+2011-05-01,2011-07-01,First Class,Michael Granlund,Home Office,France,EU,Office Supplies,Sanford Canvas,207,4,76.56,20.64,45
+2011-05-01,2011-07-01,First Class,Michael Granlund,Home Office,France,EU,Office Supplies,Binney & Smith Pencil Sharpener,90,3,20.52,15.27,46
+2011-05-01,2011-09-01,Standard Class,Phillina Ober,Home Office,United States,US,Office Supplies,SAFCO Boltless Steel Shelving,273,3,-64.7748,13.59,47
+2011-05-01,2011-11-01,Standard Class,Shaun Weien,Consumer,Taiwan,APAC,Furniture,Rubbermaid Photo Frame,49,1,22.92,5.82,48
+2011-05-01,2011-09-01,Standard Class,Phillina Ober,Home Office,United States,US,Office Supplies,Avery 508,12,3,4.2717,0.99,49
+2011-05-01,2011-09-01,Standard Class,Phillina Ober,Home Office,United States,US,Office Supplies,GBC Standard Plastic Binding Systems Combs,4,2,-5.487,0.55,50
+2011-06-01,2011-09-01,Second Class,Shahid Hopkins,Consumer,France,EU,Furniture,Advantus Frame,324,3,35.64,39.98,51
+2011-06-01,2011-10-01,Standard Class,Brosina Hoffman,Consumer,Indonesia,APAC,Office Supplies,Fellowes Box,50,3,6.0084,6.2,52
+2011-06-01,2011-01-13,Standard Class,Robert Dilbeck,Home Office,Vietnam,APAC,Office Supplies,Tenex Trays,90,2,29.2686,3.62,53
+2011-06-01,2011-10-01,Standard Class,Brosina Hoffman,Consumer,Indonesia,APAC,Office Supplies,Advantus Staples,41,7,-27.0942,2.63,54
+2011-06-01,2011-01-13,Standard Class,Robert Dilbeck,Home Office,Vietnam,APAC,Office Supplies,Enermax Memo Slips,39,3,11.5893,2.45,55
+2011-06-01,2011-11-01,Standard Class,Grace Kelly,Corporate,Angola,Africa,Technology,Logitech Flash Drive,28,1,12.72,2.0,56
+2011-06-01,2011-10-01,Standard Class,Khloe Miller,Consumer,China,APAC,Office Supplies,Cameo Manila Envelope,31,1,13.11,1.96,57
+2011-06-01,2011-01-13,Standard Class,Mick Brown,Consumer,United States,US,Office Supplies,Avery Hi,20,3,4.884,1.85,58
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Furniture,Global Deluxe High,2,9,746.4078,258.99,59
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Office Supplies,Ibico Hi,610,2,274.491,88.07,60
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Technology,GE 30524EE4,392,2,113.6742,62.37,61
+2011-07-01,2011-10-01,First Class,Stewart Visinsky,Consumer,Mozambique,Africa,Office Supplies,Eldon File Cart,256,2,46.02,52.46,62
+2011-07-01,2011-11-01,Standard Class,Maribeth Schnelling,Consumer,Philippines,APAC,Technology,Panasonic Phone,445,7,-136.71,46.97,63
+2011-07-01,2011-11-01,Standard Class,Maribeth Schnelling,Consumer,Philippines,APAC,Technology,Logitech Router,274,2,-44.838,42.19,64
+2011-07-01,2011-08-01,First Class,Dave Poirier,Corporate,France,EU,Office Supplies,Smead Lockers,716,4,143.16,32.46,65
+2011-07-01,2011-11-01,Standard Class,Maribeth Schnelling,Consumer,Philippines,APAC,Technology,Panasonic Card Printer,388,3,25.8075,26.2,66
+2011-07-01,2011-11-01,Standard Class,Harry Marie,Corporate,Lebanon,EMEA,Technology,HP Fax and Copier,174,1,71.46,23.84,67
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Technology,Wireless Extenders zBoost YX545 SOHO Signal Booster,756,4,204.1092,13.82,68
+2011-07-01,2011-10-01,First Class,Stewart Visinsky,Consumer,Mozambique,Africa,Office Supplies,Stanley Sketch Pad,45,1,8.49,13.7,69
+2011-07-01,2011-08-01,First Class,Dave Poirier,Corporate,France,EU,Office Supplies,Accos Thumb Tacks,33,3,2.25,9.73,70
+2011-07-01,2011-08-01,First Class,Dave Poirier,Corporate,France,EU,Furniture,Bush Floating Shelf Set,155,1,36.228,5.72,71
+2011-07-01,2011-09-01,Second Class,Lycoris Saunders,Consumer,United States,US,Office Supplies,Xerox 225,19,3,9.3312,4.37,72
+2011-07-01,2011-11-01,Standard Class,Alyssa Crouse,Corporate,Algeria,Africa,Office Supplies,Stanley Sketch Pad,91,2,14.58,4.36,73
+2011-07-01,2011-07-01,Same Day,Dorothy Dickinson,Consumer,Brazil,LATAM,Office Supplies,Stockwell Rubber Bands,43,4,6.0,3.94,74
+2011-07-01,2011-07-01,Same Day,Dorothy Dickinson,Consumer,Brazil,LATAM,Office Supplies,Ibico Index Tab,19,3,2.4,3.69,75
+2011-07-01,2011-08-01,First Class,Jack O'Briant,Corporate,United States,US,Office Supplies,Dixon Prang Watercolor Pencils,13,3,5.2398,3.51,76
+2011-07-01,2011-11-01,Standard Class,Maribeth Schnelling,Consumer,Philippines,APAC,Office Supplies,BIC Sketch Pad,27,1,-4.494,3.21,77
+2011-07-01,2011-11-01,Standard Class,Harry Marie,Corporate,Lebanon,EMEA,Furniture,Advantus Stacking Tray,26,1,7.38,2.88,78
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Office Supplies,Alliance Super,31,4,0.3112,2.19,79
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Office Supplies,Southworth 25% Cotton Granite Paper & Envelopes,7,1,3.0084,1.13,80
+2011-07-01,2011-12-01,Standard Class,Adam Bellavance,Home Office,Singapore,APAC,Office Supplies,Novimex Shipping Labels,18,2,5.46,0.89,81
+2011-07-01,2011-11-01,Standard Class,Maria Etezadi,Home Office,United States,US,Office Supplies,Rogers Handheld Barrel Pencil Sharpener,5,2,1.4796,0.52,82
+2011-07-01,2011-10-01,First Class,Joy Smith,Consumer,Netherlands,EU,Office Supplies,Stanley Pens,5,1,-0.105,0.28,83
+2011-08-01,2011-01-13,Standard Class,Henia Zydlo,Consumer,Angola,Africa,Furniture,Ikea Classic Bookcase,2,6,49.5,349.87,84
+2011-08-01,2011-12-01,Second Class,Nicole Fjeld,Home Office,China,APAC,Technology,Panasonic Inkjet,2,7,260.82,275.52,85
+2011-08-01,2011-01-14,Standard Class,Darren Powers,Consumer,France,EU,Furniture,Ikea Classic Bookcase,987,6,-1011.636,65.64,86
+2011-08-01,2011-01-13,Second Class,Christopher Martinez,Consumer,Guatemala,LATAM,Office Supplies,Smead Lockers,397,3,182.52,33.67,87
+2011-08-01,2011-01-13,Standard Class,Vivek Sundaresam,Consumer,United States,US,Furniture,Howard Miller 14,77,3,-53.7096,6.69,88
+2011-08-01,2011-01-13,Second Class,Christopher Martinez,Consumer,Guatemala,LATAM,Office Supplies,Wilson Jones Binder Covers,50,7,20.3,5.66,89
+2011-08-01,2011-01-14,Standard Class,Darren Powers,Consumer,France,EU,Office Supplies,Binney & Smith Sketch Pad,116,5,-55.65,3.91,90
+2011-08-01,2011-11-01,Second Class,Joe Elijah,Consumer,Nigeria,Africa,Office Supplies,Avery Index Tab,5,2,-4.542,0.82,91
+2011-08-01,2011-01-13,Standard Class,Vivek Sundaresam,Consumer,United States,US,Office Supplies,Acco Four Pocket Poly Ring Binder with Label Holder,10,7,-18.2525,0.63,92
+2011-09-01,2011-01-13,Standard Class,Ed Braxton,Corporate,Indonesia,APAC,Technology,Motorola Signal Booster,240,2,-11.6028,34.99,93
+2011-09-01,2011-01-14,Standard Class,Alejandro Grove,Consumer,Vietnam,APAC,Technology,Belkin Numeric Keypad,177,6,-156.6792,17.09,94
+2011-09-01,2011-01-13,Standard Class,Sample Company A,Home Office,Philippines,APAC,Office Supplies,Fellowes Trays,158,5,-2.9775,10.08,95
+2011-09-01,2011-01-14,Standard Class,Alejandro Grove,Consumer,Vietnam,APAC,Technology,Apple Headset,124,2,32.793,7.93,96
+2011-09-01,2011-01-13,Standard Class,Sample Company A,Home Office,Philippines,APAC,Office Supplies,Stockwell Push Pins,52,7,4.5885,5.55,97
+2011-09-01,2011-01-14,Standard Class,Alejandro Grove,Consumer,Vietnam,APAC,Office Supplies,Smead Removable Labels,45,5,17.8935,3.31,98
+2011-09-01,2011-01-13,Standard Class,Sample Company A,Home Office,Philippines,APAC,Office Supplies,Green Bar Memo Slips,9,1,-1.7175,0.69,99
+2011-09-01,2011-01-14,Standard Class,Alejandro Grove,Consumer,Vietnam,APAC,Office Supplies,Avery Index Tab,10,2,0.0714,0.25,100
+2011-10-01,2011-11-01,First Class,Dan Lawera,Consumer,Australia,APAC,Technology,Nokia Smart Phone,2,5,511.095,665.27,101
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Furniture,Ikea Library with Doors,363,1,159.87,134.59,102
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Technology,Canon Ink,589,4,276.6,114.15,103
+2011-10-01,2011-12-01,Second Class,Sanjit Jacobs,Home Office,Egypt,Africa,Furniture,Chromcraft Wood Table,968,2,445.26,80.13,104
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,SanDisk Message Books,142,6,63.9,67.79,105
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,Sanford Pencil Sharpener,155,6,54.18,58.32,106
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Technology,Epson Phone,156,2,23.4,52.91,107
+2011-10-01,2011-01-15,Second Class,Tiffany House,Corporate,Algeria,Africa,Office Supplies,Hoover Microwave,309,1,61.71,31.41,108
+2011-10-01,2011-01-16,Standard Class,Jocasta Rupert,Consumer,Venezuela,LATAM,Technology,Sharp Wireless Fax,425,3,-278.79024,26.72,109
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,Eaton Note Cards,53,2,0.0,16.06,110
+2011-10-01,2011-01-14,Standard Class,Greg Guthrie,Corporate,United Kingdom,EU,Office Supplies,Fellowes File Cart,206,3,-41.265,14.65,111
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,Cameo Mailers,42,1,1.65,13.08,112
+2011-10-01,2011-01-15,Standard Class,Paul MacIntyre,Consumer,Mexico,LATAM,Office Supplies,Fellowes Shelving,114,3,56.88,8.93,113
+2011-10-01,2011-11-01,First Class,Patrick O'Donnell,Consumer,China,APAC,Office Supplies,Kleencut Ruler,26,2,5.4,5.86,114
+2011-10-01,2011-11-01,First Class,Dan Lawera,Consumer,Australia,APAC,Office Supplies,Hon File Folder Labels,30,4,12.096,5.54,115
+2011-10-01,2011-11-01,First Class,Patrick O'Donnell,Consumer,China,APAC,Office Supplies,Avery Binder Covers,34,3,16.11,5.26,116
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Technology,StarTech Calculator,37,1,5.55,4.32,117
+2011-10-01,2011-11-01,First Class,Dan Lawera,Consumer,Australia,APAC,Office Supplies,Enermax Note Cards,162,6,53.694,3.02,118
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,Sanford Pens,11,1,2.61,2.59,119
+2011-10-01,2011-10-01,Same Day,Elpida Rittenbach,Corporate,Hungary,EMEA,Office Supplies,Avery Binder Covers,11,1,2.4,2.03,120
+2011-10-01,2011-01-14,Standard Class,Ricardo Sperren,Corporate,South Africa,Africa,Office Supplies,Acco Binder,17,1,4.65,1.29,121
+2011-10-01,2011-01-14,Standard Class,Melanie Seite,Consumer,United States,US,Technology,Memorex Micro Travel Drive 8 GB,31,3,9.75,1.13,122
+2011-10-01,2011-01-15,Second Class,Brian Dahlen,Consumer,Thailand,APAC,Office Supplies,Stockwell Staples,12,3,-5.6826,1.04,123
+2011-10-01,2011-01-15,Standard Class,Paul MacIntyre,Consumer,Mexico,LATAM,Office Supplies,Elite Scissors,16,1,1.76,0.89,124
+2011-10-01,2011-01-14,Standard Class,Melanie Seite,Consumer,United States,US,Office Supplies,Newell 312,9,2,1.168,0.21,125
+2011-11-01,2011-11-01,Same Day,Roy Collins,Consumer,United Kingdom,EU,Furniture,SAFCO Executive Leather Armchair,1,3,13.77,178.98,126
+2011-11-01,2011-12-01,First Class,Philip Fox,Consumer,Mexico,LATAM,Office Supplies,Smead Lockers,1,10,238.0,103.84,127
+2011-11-01,2011-12-01,First Class,Philip Fox,Consumer,Mexico,LATAM,Furniture,Dania Floating Shelf Set,452,5,-107.3,57.75,128
+2011-11-01,2011-01-18,Standard Class,David Flashing,Consumer,Indonesia,APAC,Technology,Apple Audio Dock,554,4,40.0536,42.43,129
+2011-11-01,2011-01-16,Standard Class,Steve Carroll,Home Office,Philippines,APAC,Technology,Sharp Wireless Fax,697,3,-343.098,40.16,130
+2011-11-01,2011-12-01,First Class,Philip Fox,Consumer,Mexico,LATAM,Technology,Apple Headset,245,5,88.0,39.11,131
+2011-11-01,2011-01-18,Standard Class,David Flashing,Consumer,Indonesia,APAC,Office Supplies,Sanford Canvas,334,9,13.4703,23.56,132
+2011-11-01,2011-01-15,Standard Class,Dorothy Dickinson,Consumer,Spain,EU,Furniture,Bevis Training Table,268,2,-341.736,21.49,133
+2011-11-01,2011-11-01,Same Day,Roy Collins,Consumer,United Kingdom,EU,Office Supplies,Binney & Smith Canvas,103,2,19.5,20.54,134
+2011-11-01,2011-01-18,Standard Class,David Flashing,Consumer,Indonesia,APAC,Furniture,Advantus Clock,188,5,2.4735,15.77,135
+2011-11-01,2011-01-15,Standard Class,Dianna Vittorini,Consumer,India,APAC,Furniture,Eldon Door Stop,142,3,52.38,15.62,136
+2011-11-01,2011-01-15,Standard Class,Chuck Sachs,Consumer,Turkey,EMEA,Furniture,Safco Floating Shelf Set,157,2,-117.72,12.45,137
+2011-11-01,2011-01-15,Standard Class,Tanja Norvell,Home Office,New Zealand,APAC,Office Supplies,GlobeWeis Interoffice Envelope,115,4,-47.832,10.52,138
+2011-11-01,2011-01-15,Standard Class,Mick Brown,Consumer,Austria,EU,Office Supplies,Smead Trays,97,2,31.02,7.99,139
+2011-11-01,2011-01-16,Standard Class,Steve Carroll,Home Office,Philippines,APAC,Furniture,Rubbermaid Photo Frame,78,2,23.775,7.09,140
+2011-11-01,2011-12-01,First Class,Philip Fox,Consumer,Mexico,LATAM,Office Supplies,KitchenAid Coffee Grinder,140,3,32.1,6.47,141
+2011-11-01,2011-01-15,Standard Class,Mick Brown,Consumer,Austria,EU,Office Supplies,Boston Canvas,55,1,9.87,5.83,142
+2011-11-01,2011-01-16,Standard Class,Anthony Jacobs,Corporate,United States,US,Furniture,Howard Miller 11,52,1,21.2954,3.52,143
+2011-11-01,2011-01-15,Standard Class,Dorothy Dickinson,Consumer,Spain,EU,Office Supplies,Novimex File Folder Labels,40,5,5.55,2.57,144
+2011-11-01,2011-01-16,Standard Class,Eric Murdock,Consumer,Italy,EU,Office Supplies,Ibico Hole Reinforcements,22,3,6.75,1.09,145
+2011-11-01,2011-01-18,Standard Class,David Flashing,Consumer,Indonesia,APAC,Office Supplies,Avery Hole Reinforcements,5,1,-0.0147,0.3,146
+2011-11-01,2011-01-16,Standard Class,Anthony Jacobs,Corporate,United States,US,Office Supplies,Avery 482,3,1,1.3583,0.22,147
+2011-12-01,2011-01-17,Standard Class,Thomas Seio,Corporate,Mexico,LATAM,Technology,Logitech Router,495,3,178.2,54.55,148
+2011-12-01,2011-01-17,Standard Class,Thomas Seio,Corporate,Mexico,LATAM,Technology,Hewlett Fax and Copier,385,3,68.64852,38.19,149
+2011-12-01,2011-01-19,Standard Class,Roy Phan,Corporate,Germany,EU,Furniture,Ikea Stackable Bookrack,552,5,165.36,35.98,150
+2011-12-01,2011-01-19,Standard Class,Roy Phan,Corporate,Germany,EU,Technology,Epson Printer,522,2,20.88,28.92,151
+2011-12-01,2011-01-17,Standard Class,Anthony Garverick,Home Office,United Kingdom,EU,Furniture,Hon Chairmat,290,5,69.6,18.63,152
+2011-12-01,2011-01-15,First Class,Peter Bühler,Consumer,United Kingdom,EU,Office Supplies,Green Bar Note Cards,34,2,-6.15,7.31,153
+2011-12-01,2011-01-19,Standard Class,Roy Phan,Corporate,Germany,EU,Office Supplies,Binney & Smith Canvas,257,5,48.75,7.28,154
+2011-12-01,2011-01-15,First Class,Seth Vernon,Consumer,United States,US,Furniture,DAX Value U,10,2,3.0814,2.69,155
+2011-12-01,2011-01-19,Standard Class,Roy Phan,Corporate,Germany,EU,Office Supplies,Ibico Index Tab,17,2,6.18,2.08,156
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,Fellowes Folders,15,2,-22.458,1.27,157
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,BIC Sketch Pad,16,1,-28.518,1.27,158
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,Avery Removable Labels,13,4,-21.648,0.62,159
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,Kleencut Ruler,5,1,-10.326,0.43,160
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,Advantus Staples,3,1,-6.483,0.25,161
+2011-12-01,2011-01-16,Standard Class,Shaun Chance,Corporate,Nigeria,Africa,Office Supplies,Fellowes Trays,17,1,-26.649,0.24,162
+2011-01-13,2011-01-18,Standard Class,Roger Demir,Consumer,Egypt,Africa,Office Supplies,Smead Lockers,794,4,134.88,76.6,163
+2011-01-13,2011-01-18,Standard Class,Roger Demir,Consumer,Egypt,Africa,Technology,HP Fax Machine,1,4,479.88,55.62,164
+2011-01-13,2011-01-17,Standard Class,Ben Wallace,Consumer,Mexico,LATAM,Technology,StarTech Inkjet,201,1,100.62,31.78,165
+2011-01-13,2011-01-19,Standard Class,Greg Matthias,Consumer,Netherlands,EU,Office Supplies,Smead Lockers,198,2,-130.98,14.53,166
+2011-01-13,2011-01-18,Standard Class,Roger Demir,Consumer,Egypt,Africa,Office Supplies,Fellowes Box,38,2,17.22,2.66,167
+2011-01-13,2011-01-17,Standard Class,James Lanier,Home Office,Venezuela,LATAM,Office Supplies,Elite Ruler,26,5,-8.0,2.2,168
+2011-01-13,2011-01-20,Standard Class,Stuart Calhoun,Consumer,Sweden,EU,Office Supplies,Sanford Pens,31,5,-13.65,2.16,169
+2011-01-13,2011-01-19,Standard Class,Greg Matthias,Consumer,Netherlands,EU,Office Supplies,Green Bar Cards & Envelopes,50,2,-37.86,1.51,170
+2011-01-13,2011-01-19,Standard Class,Greg Matthias,Consumer,Netherlands,EU,Office Supplies,Harbour Creations Legal Exhibit Labels,22,4,-12.3,1.29,171
+2011-01-13,2011-01-17,Standard Class,Cari Sayre,Corporate,Australia,APAC,Office Supplies,Harbour Creations Legal Exhibit Labels,16,2,0.33,0.72,172
+2011-01-13,2011-01-19,Standard Class,Greg Matthias,Consumer,Netherlands,EU,Office Supplies,Wilson Jones Hole Reinforcements,9,3,-3.465,0.43,173
+2011-01-14,2011-01-19,Standard Class,Brian Dahlen,Consumer,United States,US,Office Supplies,Tennsco 6,1,5,238.653,187.65,174
+2011-01-14,2011-01-16,Second Class,Chris Selesnick,Corporate,United States,US,Office Supplies,Fellowes Stor/Drawer Steel Plus Storage Drawers,573,6,34.3548,146.29,175
+2011-01-14,2011-01-16,Second Class,Chris Selesnick,Corporate,United States,US,Technology,Plantronics S12 Corded Telephone Headset System,647,6,258.696,141.35,176
+2011-01-14,2011-01-19,Standard Class,Sharelle Roach,Home Office,Austria,EU,Technology,StarTech Card Printer,486,3,77.67,53.02,177
+2011-01-14,2011-01-17,Second Class,Natalie DeCherney,Consumer,United States,US,Furniture,Global Highback Leather Tilter in Burgundy,546,6,87.3504,52.32,178
+2011-01-14,2011-01-19,Standard Class,Sharelle Roach,Home Office,Austria,EU,Technology,Apple Headset,440,6,65.88,49.92,179
+2011-01-14,2011-01-19,Standard Class,Brian Dahlen,Consumer,United States,US,Furniture,O'Sullivan Elevations Bookcase,334,3,3.9294,40.44,180
+2011-01-14,2011-01-19,Standard Class,Sharelle Roach,Home Office,Austria,EU,Office Supplies,Xerox Message Books,224,11,102.96,30.34,181
+2011-01-14,2011-01-20,Standard Class,Bart Pistole,Corporate,Nicaragua,LATAM,Furniture,Safco Floating Shelf Set,393,3,180.96,27.67,182
+2011-01-14,2011-01-15,First Class,Ted Butterfield,Consumer,Mexico,LATAM,Office Supplies,Jiffy Mailers,106,4,18.96,26.23,183
+2011-01-14,2011-01-21,Standard Class,Steve Nguyen,Home Office,South Africa,Africa,Office Supplies,Sanford Pens,136,12,31.32,23.89,184
+2011-01-14,2011-01-16,Second Class,Chris Selesnick,Corporate,United States,US,Office Supplies,Brown Kraft Recycled Envelopes,51,3,25.47,12.66,185
+2011-01-14,2011-01-20,Standard Class,Bart Pistole,Corporate,Nicaragua,LATAM,Office Supplies,Eaton Computer Printout Paper,246,12,7.2,11.88,186
+2011-01-14,2011-01-18,Standard Class,Bruce Degenhardt,Consumer,Turkey,EMEA,Office Supplies,Fellowes File Cart,110,2,-54.972,11.53,187
+2011-01-14,2011-01-21,Standard Class,Muhammed Yedwab,Corporate,Philippines,APAC,Furniture,Tenex Door Stop,99,3,-23.7375,9.71,188
+2011-01-14,2011-01-21,Standard Class,Muhammed Yedwab,Corporate,Philippines,APAC,Office Supplies,Smead Trays,80,3,5.742,9.43,189
+2011-01-14,2011-01-20,Standard Class,Bart Pistole,Corporate,Nicaragua,LATAM,Office Supplies,Tenex Shelving,109,3,28.38,6.11,190
+2011-01-14,2011-01-18,Standard Class,Bruce Degenhardt,Consumer,Turkey,EMEA,Office Supplies,Smead Lockers,79,1,-85.332,5.84,191
+2011-01-14,2011-01-18,Standard Class,Bruce Degenhardt,Consumer,Turkey,EMEA,Office Supplies,Acme Trimmer,74,4,-70.32,4.48,192
+2011-01-14,2011-01-20,Standard Class,Bart Pistole,Corporate,Nicaragua,LATAM,Office Supplies,Cardinal Binder Covers,66,8,9.12,3.61,193
+2011-01-14,2011-01-19,Standard Class,Brian Dahlen,Consumer,United States,US,Office Supplies,4009 Highlighters by Sanford,20,5,6.567,3.03,194
+2011-01-14,2011-01-16,Second Class,Chris Selesnick,Corporate,United States,US,Office Supplies,Staples,11,2,5.3392,2.88,195
+2011-01-14,2011-01-19,Standard Class,Michael Moore,Consumer,United States,US,Office Supplies,Xerox 1923,37,7,13.0928,1.46,196
+2011-01-14,2011-01-16,Second Class,Chris Selesnick,Corporate,United States,US,Office Supplies,Staples,6,3,2.7072,0.85,197
+2011-01-14,2011-01-18,Standard Class,Bruce Degenhardt,Consumer,Turkey,EMEA,Office Supplies,Stanley Canvas,79,4,-87.168,0.43,198
+2011-01-14,2011-01-19,Standard Class,Michael Moore,Consumer,United States,US,Office Supplies,Avery Metallic Poly Binders,3,2,-2.5212,0.27,199
+2011-01-15,2011-01-20,Second Class,Don Jones,Corporate,Germany,EU,Technology,Hewlett Copy Machine,527,2,10.5,92.1,200
+2011-01-15,2011-01-18,First Class,Craig Leslie,Home Office,France,EU,Furniture,Dania Library with Doors,652,2,7.2,88.52,201
+2011-01-15,2011-01-17,First Class,Ross Baird,Home Office,Dominican Republic,LATAM,Furniture,Hon Swivel Stool,265,3,23.22,43.56,202
+2011-01-15,2011-01-15,Same Day,Mick Crebagga,Consumer,Indonesia,APAC,Office Supplies,Binney & Smith Canvas,150,4,-49.3488,21.15,203
+2011-01-15,2011-01-15,Same Day,Mick Crebagga,Consumer,Indonesia,APAC,Office Supplies,Stanley Markers,51,3,-0.0126,21.13,204
+2011-01-15,2011-01-20,Second Class,Don Jones,Corporate,Germany,EU,Office Supplies,Cuisinart Microwave,249,1,2.76,15.08,205
+2011-01-15,2011-01-16,First Class,Brendan Sweed,Corporate,United States,US,Furniture,Sauder Cornerstone Collection Library,62,4,-53.2856,10.96,206
+2011-01-15,2011-01-20,Second Class,Don Jones,Corporate,Germany,EU,Office Supplies,Green Bar Computer Printout Paper,170,5,25.35,8.42,207
+2011-01-15,2011-01-20,Second Class,Don Jones,Corporate,Germany,EU,Office Supplies,Elite Letter Opener,55,2,2.16,4.12,208
+2011-01-15,2011-01-21,Standard Class,Mick Brown,Consumer,Nigeria,Africa,Furniture,Harbour Creations Rocking Chair,45,1,-56.856,3.43,209
+2011-01-15,2011-01-21,Standard Class,Mick Brown,Consumer,Nigeria,Africa,Office Supplies,Advantus Staples,19,6,-38.898,1.46,210
+2011-01-15,2011-01-21,Standard Class,Mick Brown,Consumer,Nigeria,Africa,Office Supplies,Sanford Markers,15,2,-14.754,1.02,211
+2011-01-15,2011-01-20,Second Class,Don Jones,Corporate,Germany,EU,Office Supplies,Harbour Creations Removable Labels,21,2,7.44,0.76,212
+2011-01-16,2011-01-18,First Class,Erica Hackney,Consumer,United States,US,Technology,Logitech 910,150,5,65.978,45.24,213
+2011-01-17,2011-01-22,Standard Class,Alan Haines,Corporate,El Salvador,LATAM,Technology,Hewlett Fax and Copier,1,11,251.71124,159.52,214
+2011-01-17,2011-01-19,Second Class,Edward Hooks,Corporate,France,EU,Office Supplies,Binney & Smith Markers,300,11,50.82,38.7,215
+2011-01-17,2011-01-19,Second Class,Delfina Latchford,Consumer,United States,US,Furniture,DAX Black Cherry Wood,127,6,28.5984,36.4,216
+2011-01-17,2011-01-19,Second Class,Delfina Latchford,Consumer,United States,US,Technology,AT&T 841000 Phone,124,3,-31.05,26.12,217
+2011-01-17,2011-01-19,Second Class,Delfina Latchford,Consumer,United States,US,Office Supplies,Round Specialty Laser Printer Labels,30,3,10.1493,10.17,218
+2011-01-17,2011-01-19,Second Class,Edward Hooks,Corporate,France,EU,Office Supplies,Fellowes Box,84,5,33.675,7.33,219
+2011-01-17,2011-01-19,Second Class,Edward Hooks,Corporate,France,EU,Office Supplies,Fellowes Folders,95,4,42.24,6.56,220
+2011-01-17,2011-01-19,Second Class,Edward Hooks,Corporate,France,EU,Office Supplies,Tenex Box,46,3,18.846,6.46,221
+2011-01-17,2011-01-18,First Class,Vivian Mathis,Consumer,Australia,APAC,Office Supplies,Ibico Binder,37,4,-9.288,5.48,222
+2011-01-17,2011-01-19,Second Class,Delfina Latchford,Consumer,United States,US,Office Supplies,GBC Linen Binding Covers,19,2,-13.6312,5.26,223
+2011-01-17,2011-01-21,Standard Class,Tamara Willingham,Home Office,Australia,APAC,Office Supplies,Stanley Pens,19,2,5.136,3.96,224
+2011-01-17,2011-01-23,Standard Class,Shirley Daniels,Home Office,Denmark,EU,Office Supplies,Hon Shipping Labels,17,3,-7.515,0.4,225
+2011-01-18,2011-01-21,First Class,Charles Sheldon,Corporate,Tanzania,Africa,Office Supplies,Fellowes Lockers,746,4,132.588,132.29,226
+2011-01-18,2011-01-21,First Class,Michael Dominguez,Corporate,Spain,EU,Office Supplies,Stockwell Thumb Tacks,108,8,33.36,18.36,227
+2011-01-18,2011-01-23,Standard Class,Vivek Gonzalez,Consumer,Brazil,LATAM,Office Supplies,OIC Clamps,38,3,6.12,4.7,228
+2011-01-18,2011-01-23,Second Class,Richard Bierner,Consumer,Denmark,EU,Office Supplies,Acco Binding Machine,26,1,-10.755,2.53,229
+2011-01-18,2011-01-21,First Class,Beth Paige,Consumer,Saudi Arabia,EMEA,Office Supplies,Cardinal Binder,14,1,2.97,2.48,230
+2011-01-19,2011-01-21,First Class,Patrick Gardner,Consumer,Zambia,Africa,Office Supplies,Binney & Smith Pencil Sharpener,418,14,95.76,143.67,231
+2011-01-19,2011-01-20,First Class,Matt Abelman,Home Office,Italy,EU,Office Supplies,Wilson Jones Binding Machine,145,3,43.56,58.25,232
+2011-01-19,2011-01-24,Standard Class,Aleksandra Gannaway,Corporate,Nicaragua,LATAM,Technology,Okidata Printer,716,4,221.92,36.29,233
+2011-01-19,2011-01-24,Standard Class,Aleksandra Gannaway,Corporate,Nicaragua,LATAM,Furniture,Ikea Floating Shelf Set,226,2,33.96,25.81,234
+2011-01-19,2011-01-23,Standard Class,Pauline Webber,Corporate,Myanmar (Burma),APAC,Technology,Brother Ink,278,3,-106.083,21.22,235
+2011-01-19,2011-01-20,First Class,Matt Abelman,Home Office,Italy,EU,Office Supplies,Fellowes Folders,48,3,7.92,15.23,236
+2011-01-19,2011-01-21,First Class,Patrick Gardner,Consumer,Zambia,Africa,Technology,Belkin Mouse,41,1,6.12,12.68,237
+2011-01-19,2011-01-22,Second Class,David Wiener,Corporate,United States,US,Office Supplies,Fellowes Mighty 8 Compact Surge Protector,65,4,6.4864,5.04,238
+2011-01-19,2011-01-24,Standard Class,Aleksandra Gannaway,Corporate,Nicaragua,LATAM,Technology,SanDisk Flash Drive,53,2,16.32,4.1,239
+2011-01-19,2011-01-21,First Class,Ann Blume,Corporate,Italy,EU,Office Supplies,GlobeWeis Business Envelopes,48,3,21.24,3.54,240
+2011-01-19,2011-01-22,Second Class,Michael Kennedy,Corporate,Canada,Canada,Office Supplies,Stockwell Clamps,16,1,5.7,1.4,241
+2011-01-20,2011-01-20,Same Day,Michelle Arnett,Home Office,Angola,Africa,Furniture,Bush Classic Bookcase,825,2,338.34,88.97,242
+2011-01-20,2011-01-20,Same Day,Suzanne McNair,Corporate,Mexico,LATAM,Office Supplies,Cuisinart Microwave,372,2,81.88,82.67,243
+2011-01-20,2011-01-21,First Class,Toby Swindell,Consumer,United States,US,Furniture,O'Sullivan 4,181,5,-320.597,29.68,244
+2011-01-20,2011-01-22,First Class,Irene Maddox,Consumer,Iran,EMEA,Furniture,Office Star Rocking Chair,141,1,57.75,20.93,245
+2011-01-20,2011-01-25,Standard Class,Alejandro Ballentine,Home Office,Mexico,LATAM,Furniture,Bush Library with Doors,196,1,-34.252,17.08,246
+2011-01-20,2011-01-21,First Class,Toby Swindell,Consumer,United States,US,Office Supplies,TOPS Carbonless Receipt Book,56,4,19.6224,14.49,247
+2011-01-20,2011-01-20,Same Day,Michelle Arnett,Home Office,Angola,Africa,Office Supplies,Smead Trays,49,1,15.51,11.64,248
+2011-01-20,2011-01-21,First Class,Toby Swindell,Consumer,United States,US,Office Supplies,Tyvek  Top,109,5,36.693,10.39,249
+2011-01-20,2011-01-25,Standard Class,Darren Koutras,Consumer,France,EU,Office Supplies,Boston Pencil Sharpener,58,2,7.56,8.77,250
+2011-01-20,2011-01-20,Same Day,Michelle Arnett,Home Office,Angola,Africa,Office Supplies,Eldon Trays,48,1,15.84,7.92,251
+2011-01-20,2011-01-24,Standard Class,Randy Bradley,Consumer,Nigeria,Africa,Office Supplies,Green Bar Note Cards,37,4,-73.68,6.08,252
+2011-01-20,2011-01-21,First Class,Toby Swindell,Consumer,United States,US,Office Supplies,GBC Standard Recycled Report Covers,32,10,-23.716,6.03,253
+2011-01-20,2011-01-24,Standard Class,Randy Bradley,Consumer,Nigeria,Africa,Office Supplies,Fellowes Box,24,4,-42.624,3.74,254
+2011-01-20,2011-01-22,Second Class,Ruben Dartt,Consumer,Russia,EMEA,Office Supplies,Novimex Color Coded Labels,10,1,4.83,2.05,255
+2011-01-20,2011-01-22,Second Class,Ruben Dartt,Consumer,Russia,EMEA,Office Supplies,Novimex Shipping Labels,11,1,4.08,1.48,256
+2011-01-20,2011-01-24,Second Class,Toby Ritter,Consumer,Australia,APAC,Furniture,Advantus Clock,139,3,27.693,1.23,257
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Furniture,Chromcraft Conference Table,2,6,-0.072,320.38,258
+2011-01-21,2011-01-27,Standard Class,Sally Hughsby,Corporate,Mongolia,EMEA,Office Supplies,Fellowes Lockers,1,6,211.5,88.66,259
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Furniture,Hon 4700 Series Mobuis Mid,1,3,224.2674,85.72,260
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Technology,Apple iPhone 5C,700,7,181.9818,31.52,261
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Technology,Cisco Signal Booster,405,4,121.44,26.73,262
+2011-01-21,2011-01-27,Standard Class,Sally Hughsby,Corporate,Mongolia,EMEA,Furniture,Office Star Rocking Chair,277,2,55.38,24.75,263
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Furniture,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,273,3,30.0234,20.68,264
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Technology,Apple Signal Booster,182,2,16.4,19.1,265
+2011-01-21,2011-01-26,Standard Class,Ryan Crowe,Consumer,Germany,EU,Technology,Memorex Router,495,2,232.8,18.43,266
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Holmes Replacement Filter for HEPA Air Cleaner,248,4,93.5816,14.53,267
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Office Supplies,Fiskars Box Cutter,107,5,46.1,8.92,268
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Fellowes Bases and Tops For Staxonsteel/High,67,2,15.9792,8.4,269
+2011-01-21,2011-01-27,Standard Class,Sally Hughsby,Corporate,Mongolia,EMEA,Office Supplies,Fiskars Trimmer,85,2,12.66,6.06,270
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Office Supplies,Avery Binder Covers,61,8,28.64,5.22,271
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Panasonic KP,44,3,12.7368,4.88,272
+2011-01-21,2011-01-26,Standard Class,Darrin Van Huff,Corporate,Iran,EMEA,Office Supplies,Rogers Shelving,61,1,18.96,4.61,273
+2011-01-21,2011-01-27,Standard Class,Muhammed MacIntyre,Corporate,United States,US,Office Supplies,GBC DocuBind TL200 Manual Binding Machine,67,1,-51.5154,3.0,274
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Office Supplies,Staples,23,3,10.9698,2.6,275
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Furniture,Eldon Expressions Desk Accessory,39,4,11.58,2.57,276
+2011-01-21,2011-01-25,Standard Class,Pauline Webber,Corporate,Thailand,APAC,Office Supplies,Sanford Sketch Pad,52,2,-24.3804,2.02,277
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Storex Dura Pro Binders,30,5,13.365,1.98,278
+2011-01-21,2011-01-27,Standard Class,Sally Hughsby,Corporate,Mongolia,EMEA,Office Supplies,Cameo Manila Envelope,27,1,2.43,1.58,279
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,Nicaragua,LATAM,Office Supplies,Acco Binder Covers,18,2,1.56,1.29,280
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Office Supplies,Newell 351,23,7,6.6584,1.22,281
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Acco Pressboard Covers with Storage Hooks,19,5,8.9535,1.21,282
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Office Supplies,Eldon Fold 'N Roll Cart System,14,1,4.0542,1.14,283
+2011-01-21,2011-01-26,Standard Class,Mark Van Huff,Consumer,United States,US,Office Supplies,Wirebound Service Call Books,19,2,9.2928,0.94,284
+2011-01-21,2011-01-27,Standard Class,Xylona Preis,Consumer,United States,US,Furniture,Ultra Door Push Plate,15,3,4.8609,0.71,285
+2011-01-21,2011-01-26,Standard Class,Mark Van Huff,Consumer,United States,US,Furniture,Eldon Expressions Desk Accessory,19,2,5.79,0.64,286
+2011-01-21,2011-01-27,Standard Class,Hunter Lopez,Consumer,United States,US,Office Supplies,Newell 327,7,3,1.7901,0.47,287
+2011-01-22,2011-01-26,Standard Class,Paul Stevenson,Home Office,Italy,EU,Office Supplies,Rogers Lockers,889,7,59.22,96.45,288
+2011-01-22,2011-01-26,Standard Class,Paul Stevenson,Home Office,Italy,EU,Furniture,Bush Classic Bookcase,825,2,338.34,77.08,289
+2011-01-22,2011-01-26,Standard Class,Marc Harrigan,Home Office,Belgium,EU,Office Supplies,Tenex File Cart,666,5,119.85,73.27,290
+2011-01-22,2011-01-23,First Class,Sung Shariari,Consumer,Australia,APAC,Office Supplies,Binney & Smith Highlighters,60,6,-33.876,27.43,291
+2011-01-22,2011-01-24,First Class,Jason Klamczynski,Corporate,Kenya,Africa,Office Supplies,Smead Trays,95,2,12.36,21.6,292
+2011-01-22,2011-01-26,Standard Class,Claudia Bergmann,Corporate,France,EU,Office Supplies,Acco Binding Machine,202,4,22.2,18.96,293
+2011-01-22,2011-01-27,Standard Class,Carl Ludwig,Consumer,El Salvador,LATAM,Furniture,Sauder Floating Shelf Set,259,2,101.16,11.91,294
+2011-01-22,2011-01-26,Standard Class,Michael Paige,Corporate,Colombia,LATAM,Furniture,Novimex Steel Folding Chair,219,4,0.0,10.23,295
+2011-01-22,2011-01-26,Standard Class,Michael Paige,Corporate,Colombia,LATAM,Technology,SanDisk Keyboard,109,2,27.2,9.0,296
+2011-01-22,2011-01-26,Standard Class,Paul Stevenson,Home Office,Italy,EU,Office Supplies,Boston Canvas,54,1,12.39,5.13,297
+2011-01-22,2011-01-26,Standard Class,Claudia Bergmann,Corporate,France,EU,Technology,Samsung Headset,65,1,24.3225,4.38,298
+2011-01-22,2011-01-24,Second Class,Tom Boeckenhauer,Consumer,United States,US,Furniture,Ultra Door Pull Handle,25,3,4.1028,3.64,299
+2011-01-22,2011-01-27,Standard Class,Brendan Murry,Corporate,Turkey,EMEA,Furniture,Advantus Clock,77,4,-104.688,2.36,300
+2011-01-22,2011-01-23,First Class,Sung Shariari,Consumer,Australia,APAC,Office Supplies,Stockwell Staples,6,1,-3.912,1.77,301
+2011-01-22,2011-01-26,Standard Class,Marc Harrigan,Home Office,Belgium,EU,Office Supplies,Avery Index Tab,12,2,3.12,0.27,302
+2011-01-23,2011-01-23,Same Day,Larry Tron,Consumer,Nicaragua,LATAM,Furniture,Dania Classic Bookcase,1,4,198.32,146.12,303
+2011-01-23,2011-01-23,Same Day,Larry Tron,Consumer,Nicaragua,LATAM,Furniture,Novimex Executive Leather Armchair,920,3,395.76,45.77,304
+2011-01-23,2011-01-23,Same Day,Larry Tron,Consumer,Nicaragua,LATAM,Office Supplies,Stiletto Box Cutter,48,2,15.8,5.55,305
+2011-01-23,2011-01-23,Same Day,Larry Tron,Consumer,Nicaragua,LATAM,Office Supplies,Harbour Creations Color Coded Labels,26,3,9.78,3.61,306
+2011-01-23,2011-01-23,Same Day,Larry Tron,Consumer,Nicaragua,LATAM,Office Supplies,Eaton Memo Slips,24,2,1.64,3.27,307
+2011-01-23,2011-01-27,Standard Class,Corey Roper,Home Office,Saudi Arabia,EMEA,Office Supplies,OIC Clamps,34,2,12.36,1.91,308
+2011-01-23,2011-01-27,Standard Class,Corey Roper,Home Office,Saudi Arabia,EMEA,Office Supplies,Ibico Index Tab,9,1,1.59,0.58,309
+2011-01-24,2011-01-24,Same Day,Ann Blume,Corporate,Estonia,EMEA,Technology,Cisco Smart Phone,1,2,286.56,234.73,310
+2011-01-24,2011-01-24,Same Day,Ann Blume,Corporate,Estonia,EMEA,Office Supplies,Breville Stove,561,1,61.68,133.57,311
+2011-01-24,2011-01-29,Standard Class,Christine Phan,Corporate,Germany,EU,Technology,Sharp Fax Machine,591,2,53.16,66.1,312
+2011-01-24,2011-01-26,First Class,Shirley Jackson,Consumer,Italy,EU,Furniture,Harbour Creations Swivel Stool,73,1,-56.562,29.86,313
+2011-01-24,2011-01-30,Standard Class,Jill Matthias,Consumer,New Zealand,APAC,Office Supplies,Kraft Manila Envelope,420,14,147.0,20.03,314
+2011-01-24,2011-01-30,Standard Class,Jill Matthias,Consumer,New Zealand,APAC,Furniture,Tenex Frame,220,2,8.76,16.92,315
+2011-01-24,2011-01-24,Same Day,Ann Blume,Corporate,Estonia,EMEA,Furniture,Hon Rocking Chair,133,1,63.87,15.16,316
+2011-01-24,2011-01-26,First Class,Shirley Jackson,Consumer,Italy,EU,Furniture,Office Star Bag Chairs,69,3,-95.202,12.7,317
+2011-01-24,2011-01-30,Standard Class,Jill Matthias,Consumer,New Zealand,APAC,Office Supplies,Boston Pens,139,8,65.28,11.94,318
+2011-01-24,2011-01-26,First Class,Shirley Jackson,Consumer,Italy,EU,Office Supplies,SanDisk Memo Slips,55,3,2.7,11.16,319
+2011-01-24,2011-01-29,Standard Class,Lena Creighton,Consumer,Australia,APAC,Technology,SanDisk Flash Drive,111,3,8.568,9.92,320
+2011-01-24,2011-01-26,First Class,Shirley Jackson,Consumer,Italy,EU,Office Supplies,Advantus Staples,41,4,2.88,5.24,321
+2011-01-24,2011-01-26,First Class,Shirley Jackson,Consumer,Italy,EU,Office Supplies,Harbour Creations Color Coded Labels,54,5,7.5,4.72,322
+2011-01-24,2011-01-29,Standard Class,Ionia McGrath,Consumer,United States,US,Office Supplies,Xerox 195,40,6,19.2384,4.31,323
+2011-01-24,2011-01-30,Standard Class,Chuck Clark,Home Office,India,APAC,Office Supplies,Avery Shipping Labels,59,5,27.75,4.27,324
+2011-01-24,2011-01-30,Standard Class,Greg Hansen,Consumer,Madagascar,Africa,Office Supplies,Avery Round Labels,42,6,9.18,3.57,325
+2011-01-24,2011-01-26,Second Class,Joni Sundaresam,Home Office,Italy,EU,Office Supplies,Boston Markers,28,1,4.14,3.33,326
+2011-01-24,2011-01-29,Standard Class,Mitch Webber,Consumer,Indonesia,APAC,Office Supplies,Avery Hole Reinforcements,12,3,4.2273,1.2,327
+2011-01-24,2011-01-28,Standard Class,Speros Goranitis,Consumer,United States,US,Office Supplies,Alliance Big Bands Rubber Bands,6,3,0.0,0.95,328
+2011-01-24,2011-01-28,Standard Class,Janet Martin,Consumer,Turkey,EMEA,Office Supplies,OIC Clamps,15,2,-3.84,0.94,329
+2011-01-24,2011-01-29,Standard Class,Christine Phan,Corporate,Germany,EU,Office Supplies,Avery Binder Covers,11,1,4.11,0.62,330
+2011-01-25,2011-01-29,Standard Class,Frank Olsen,Consumer,France,EU,Office Supplies,Stanley Canvas,445,9,71.01,33.54,331
+2011-01-25,2011-01-28,Second Class,Gary Hwang,Consumer,Nigeria,Africa,Technology,Panasonic Phone,148,6,-182.178,18.61,332
+2011-01-25,2011-01-30,Standard Class,Aimee Bixby,Consumer,France,EU,Office Supplies,Stanley Markers,178,7,58.59,16.94,333
+2011-01-25,2011-01-02,Standard Class,Filia McAdams,Corporate,Germany,EU,Office Supplies,Cardinal Binder,133,10,3.9,8.94,334
+2011-01-25,2011-01-29,Standard Class,Frank Olsen,Consumer,France,EU,Office Supplies,Boston Pens,71,5,1.35,6.64,335
+2011-01-25,2011-01-26,First Class,Brad Thomas,Home Office,South Africa,Africa,Office Supplies,Sanford Pens,45,4,10.44,6.53,336
+2011-01-25,2011-01-29,Standard Class,Bart Pistole,Corporate,Mexico,LATAM,Office Supplies,GlobeWeis Peel and Seal,32,2,10.12,4.45,337
+2011-01-25,2011-01-27,First Class,Luke Weiss,Consumer,China,APAC,Office Supplies,Xerox Cards & Envelopes,98,2,34.32,3.17,338
+2011-01-25,2011-01-29,Second Class,Sue Ann Reed,Consumer,Cuba,LATAM,Office Supplies,Eaton Computer Printout Paper,18,1,5.98,1.76,339
+2011-01-25,2011-01-02,Standard Class,Filia McAdams,Corporate,Germany,EU,Furniture,Advantus Light Bulb,20,1,4.02,1.15,340
+2011-01-25,2011-01-28,Second Class,Gary Hwang,Consumer,Nigeria,Africa,Office Supplies,Binney & Smith Pens,4,1,-9.0,0.28,341
+2011-01-26,2011-01-27,First Class,Heather Kirkland,Corporate,Indonesia,APAC,Furniture,Novimex Executive Leather Armchair,334,1,-109.9365,92.67,342
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Furniture,SAFCO Executive Leather Armchair,1,6,-1475.352,47.35,343
+2011-01-26,2011-01-30,Standard Class,Allen Rosenblatt,Corporate,Portugal,EU,Technology,Hewlett Wireless Fax,570,3,-216.765,33.99,344
+2011-01-26,2011-01-31,Standard Class,Nat Carroll,Consumer,Morocco,Africa,Technology,Konica Inkjet,311,1,118.02,27.7,345
+2011-01-26,2011-01-30,Standard Class,Sally Hughsby,Corporate,Sierra Leone,Africa,Office Supplies,KitchenAid Coffee Grinder,285,4,59.76,25.63,346
+2011-01-26,2011-01-26,Same Day,Hunter Glantz,Consumer,France,EU,Furniture,Safco Stackable Bookrack,119,2,-143.076,24.75,347
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Office Supplies,Smead Lockers,318,4,-254.64,19.93,348
+2011-01-26,2011-01-28,First Class,Bradley Talbott,Home Office,Iran,EMEA,Technology,Enermax Router,256,1,102.45,19.7,349
+2011-01-26,2011-01-31,Standard Class,Nat Carroll,Consumer,Morocco,Africa,Technology,HP Personal Copier,124,1,42.24,17.14,350
+2011-01-26,2011-01-28,Second Class,Nathan Mautz,Home Office,India,APAC,Office Supplies,Eaton Computer Printout Paper,79,3,25.38,13.82,351
+2011-01-26,2011-01-02,Standard Class,Anna Andreadi,Consumer,India,APAC,Office Supplies,BIC Sketch Pad,343,7,54.6,13.22,352
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,Elite Trimmer,345,9,162.27,12.46,353
+2011-01-26,2011-01-31,Standard Class,Christina Anderson,Consumer,Indonesia,APAC,Office Supplies,Fellowes Shelving,142,3,51.1659,12.24,354
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Office Supplies,Hamilton Beach Blender,115,4,-68.976,11.17,355
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,Rogers Box,108,5,2.4,11.06,356
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,Ibico Binder Covers,136,9,16.2,9.44,357
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,BIC Highlighters,88,4,15.84,7.14,358
+2011-01-26,2011-01-30,Standard Class,Michael Moore,Consumer,Norway,EU,Technology,Memorex Flash Drive,88,3,18.45,5.54,359
+2011-01-26,2011-01-30,Standard Class,Michael Moore,Consumer,Norway,EU,Office Supplies,Avery Binder,52,4,20.04,4.88,360
+2011-01-26,2011-01-30,Standard Class,Patrick O'Brill,Consumer,Spain,EU,Office Supplies,Smead Removable Labels,32,3,10.08,4.82,361
+2011-01-26,2011-01-26,Same Day,Hunter Glantz,Consumer,France,EU,Office Supplies,Cardinal Binder,41,6,-10.89,3.98,362
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Furniture,Novimex Steel Folding Chair,34,1,-38.982,3.08,363
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,Smead Trays,86,2,2.85,2.65,364
+2011-01-26,2011-01-26,Same Day,Hunter Glantz,Consumer,France,EU,Office Supplies,Kraft Clasp Envelope,12,3,-8.01,1.75,365
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Office Supplies,Green Bar Note Cards,60,2,21.42,1.74,366
+2011-01-26,2011-01-31,Standard Class,Nat Carroll,Consumer,Morocco,Africa,Office Supplies,Cardinal Index Tab,9,1,4.02,1.43,367
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Office Supplies,Xerox Message Books,16,2,-5.724,1.28,368
+2011-01-26,2011-01-30,Standard Class,Michael Moore,Consumer,Norway,EU,Office Supplies,Acco Binder Covers,13,1,5.49,1.2,369
+2011-01-26,2011-01-31,Standard Class,Nat Carroll,Consumer,Morocco,Africa,Office Supplies,Novimex Shipping Labels,11,1,4.83,0.88,370
+2011-01-26,2011-01-29,Second Class,Alan Shonely,Consumer,France,EU,Furniture,Rubbermaid Stacking Tray,177,8,0.0,0.61,371
+2011-01-26,2011-01-31,Standard Class,Jay Fein,Consumer,Turkey,EMEA,Office Supplies,Hon Color Coded Labels,5,1,-7.338,0.34,372
+2011-01-27,2011-01-30,First Class,Carol Adams,Corporate,United States,US,Furniture,Safco Value Mate Series Steel Bookcases,142,2,39.7488,24.59,373
+2011-01-27,2011-01-29,Second Class,Neola Schneider,Consumer,Mexico,LATAM,Office Supplies,Acco Binder Covers,115,13,10.14,24.52,374
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Office Supplies,SAFCO Commercial Wire Shelving,490,8,0.0,21.48,375
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Technology,Jabra SPEAK 410,188,2,52.6344,17.66,376
+2011-01-27,2011-01-02,Standard Class,Kean Nguyen,Corporate,China,APAC,Technology,Okidata Calculator,367,7,106.26,17.61,377
+2011-01-27,2011-01-29,Second Class,Todd Sumrall,Corporate,Central African Republic,Africa,Office Supplies,Kleencut Trimmer,76,2,20.58,16.59,378
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Technology,Macally Suction Cup Mount,155,13,0.0,11.95,379
+2011-01-27,2011-01-02,Standard Class,Ryan Akin,Consumer,Czech Republic,EMEA,Office Supplies,Fellowes Trays,230,4,15.96,10.73,380
+2011-01-27,2011-01-29,Second Class,Neola Schneider,Consumer,Mexico,LATAM,Office Supplies,Stiletto Scissors,31,2,13.8,6.7,381
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Furniture,GE General Use Halogen Bulbs,63,3,30.7818,6.15,382
+2011-01-27,2011-02-02,Standard Class,Dennis Bolton,Home Office,Indonesia,APAC,Office Supplies,Cameo Clasp Envelope,82,13,-17.3901,5.67,383
+2011-01-27,2011-01-29,First Class,Liz Pelletier,Consumer,Morocco,Africa,Furniture,Deflect,51,2,22.8,4.24,384
+2011-01-27,2011-01-29,First Class,Liz Pelletier,Consumer,Morocco,Africa,Office Supplies,Boston Highlighters,20,1,5.22,3.73,385
+2011-01-27,2011-01-29,First Class,Liz Pelletier,Consumer,Morocco,Africa,Office Supplies,Binney & Smith Highlighters,17,1,2.46,3.44,386
+2011-01-27,2011-01-02,Standard Class,Patrick O'Donnell,Consumer,China,APAC,Office Supplies,Kraft Business Envelopes,40,2,15.18,2.6,387
+2011-01-27,2011-01-31,Standard Class,Barry Weirich,Consumer,Dominican Republic,LATAM,Office Supplies,Stockwell Thumb Tacks,35,5,7.26,1.98,388
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Office Supplies,"Eureka Recycled Copy Paper 8 1/2"" x 11""",19,3,9.3312,1.53,389
+2011-01-27,2011-01-30,First Class,Carol Adams,Corporate,United States,US,Office Supplies,Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,11,2,5.0196,1.39,390
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Office Supplies,REDIFORM Incoming/Outgoing Call Register,17,2,8.34,1.13,391
+2011-01-27,2011-01-29,First Class,Liz Pelletier,Consumer,Morocco,Africa,Office Supplies,Cardinal Hole Reinforcements,5,1,2.16,0.54,392
+2011-01-27,2011-01-02,Standard Class,Shirley Daniels,Home Office,United States,US,Furniture,Eldon Image Series Black Desk Accessories,12,3,4.4712,0.43,393
+2011-01-28,2011-02-02,Second Class,Jocasta Rupert,Consumer,Australia,APAC,Technology,Sharp Fax Machine,532,2,47.202,51.51,394
+2011-01-28,2011-03-02,Standard Class,Ed Jacobs,Consumer,United States,US,Furniture,Balt Split Level Computer Training Table,333,3,-16.65,23.43,395
+2011-01-28,2011-01-31,First Class,Michael Paige,Corporate,Indonesia,APAC,Office Supplies,Cameo Interoffice Envelope,132,5,-5.0505,9.82,396
+2011-01-28,2011-01-31,First Class,Michael Paige,Corporate,Indonesia,APAC,Office Supplies,Kleencut Box Cutter,90,5,-51.2175,4.86,397
+2011-01-28,2011-03-02,Standard Class,Ed Jacobs,Consumer,United States,US,Office Supplies,Recycled Steel Personal File for Hanging File Folders,57,1,14.3075,4.0,398
+2011-01-28,2011-03-02,Standard Class,Ed Jacobs,Consumer,United States,US,Office Supplies,Dixon Ticonderoga Core,36,4,12.0252,3.25,399
+2011-01-28,2011-03-02,Standard Class,Herbert Flentye,Consumer,France,EU,Office Supplies,Rogers Folders,28,1,-0.642,1.15,400
+2011-01-29,2011-03-02,Standard Class,Resi Pölking,Consumer,Brazil,LATAM,Furniture,Hon Conference Table,493,2,-468.016,31.54,401
+2011-01-29,2011-03-02,Standard Class,Resi Pölking,Consumer,Venezuela,LATAM,Furniture,Hon Conference Table,369,2,-591.172,18.73,402
+2011-01-29,2011-04-02,Standard Class,Nona Balk,Corporate,Benin,Africa,Office Supplies,Fiskars Trimmer,44,1,16.23,3.35,403
+2011-01-29,2011-04-02,Standard Class,Jasper Cacioppo,Consumer,United States,US,Office Supplies,Pressboard Covers with Storage Hooks,4,1,1.3257,0.36,404
+2011-01-30,2011-01-30,Same Day,Harold Engle,Corporate,New Zealand,APAC,Furniture,SAFCO Rocking Chair,162,2,-29.688,63.14,405
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Technology,Canon Fax Machine,191,2,-382.086,19.19,406
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Office Supplies,Eaton Memo Slips,18,4,-32.22,2.36,407
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Technology,Apple Signal Booster,42,1,-62.79,2.27,408
+2011-01-30,2011-01-31,First Class,Arthur Gainer,Consumer,Nigeria,Africa,Office Supplies,Ibico Index Tab,5,2,-5.538,1.01,409
+2011-01-30,2011-01-31,First Class,Arthur Gainer,Consumer,Nigeria,Africa,Office Supplies,Hon Color Coded Labels,4,1,-8.601,0.6,410
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Office Supplies,Wilson Jones Binder Covers,20,6,-29.718,0.39,411
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Office Supplies,Ames Mailers,12,1,-8.283,0.32,412
+2011-01-30,2011-04-02,Second Class,David Philippe,Consumer,Nigeria,Africa,Office Supplies,Avery Hole Reinforcements,1,1,-2.349,0.12,413
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Technology,Motorola Smart Phone,2,4,102.84,129.0,414
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Furniture,Barricks Computer Table,1,4,517.56,104.29,415
+2011-01-31,2011-05-02,Standard Class,Luke Schmidt,Corporate,Australia,APAC,Technology,Konica Inkjet,839,3,121.113,54.17,416
+2011-01-31,2011-05-02,Standard Class,Mike Vittorini,Consumer,United States,US,Office Supplies,Space Solutions HD Industrial Steel Shelving.,230,2,6.8982,22.58,417
+2011-01-31,2011-04-02,Standard Class,Bryan Davis,Consumer,Morocco,Africa,Furniture,Sauder Classic Bookcase,436,1,178.74,22.32,418
+2011-01-31,2011-04-02,Standard Class,Bryan Davis,Consumer,Morocco,Africa,Furniture,Novimex Swivel Stool,334,2,26.7,19.34,419
+2011-01-31,2011-05-02,Standard Class,Luke Schmidt,Corporate,Australia,APAC,Furniture,SAFCO Bag Chairs,374,8,24.696,15.85,420
+2011-01-31,2011-03-02,First Class,Charles McCrossin,Consumer,Nicaragua,LATAM,Office Supplies,Eaton Parchment Paper,35,3,12.66,12.7,421
+2011-01-31,2011-06-02,Standard Class,Sarah Foster,Consumer,China,APAC,Office Supplies,Avery 3,164,6,18.0,10.65,422
+2011-01-31,2011-06-02,Standard Class,Damala Kotsonis,Corporate,Dominican Republic,LATAM,Office Supplies,Ibico Binding Machine,85,3,-20.148,8.52,423
+2011-01-31,2011-04-02,Standard Class,Bryan Davis,Consumer,Morocco,Africa,Office Supplies,Kleencut Letter Opener,95,4,23.76,6.18,424
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Office Supplies,Xerox Computer Printout Paper,122,4,32.88,5.85,425
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Office Supplies,Harbour Creations Removable Labels,62,6,18.54,5.18,426
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Office Supplies,Eaton Parchment Paper,106,6,48.6,5.01,427
+2011-01-31,2011-05-02,Standard Class,Brendan Dodson,Home Office,Singapore,APAC,Office Supplies,Wilson Jones 3,113,4,55.56,4.51,428
+2011-01-31,2011-04-02,Standard Class,Bryan Davis,Consumer,Morocco,Africa,Office Supplies,Elite Ruler,63,6,11.34,3.6,429
+2011-01-31,2011-04-02,Standard Class,Bryan Davis,Consumer,Morocco,Africa,Office Supplies,GlobeWeis Peel and Seal,24,1,2.85,2.12,430
+2011-01-31,2011-06-02,Standard Class,Damala Kotsonis,Corporate,Dominican Republic,LATAM,Office Supplies,BIC Pens,30,4,-7.296,1.99,431
+2011-01-31,2011-06-02,Standard Class,Troy Staebel,Consumer,New Zealand,APAC,Office Supplies,Eldon Folders,32,2,9.3,1.9,432
+2011-01-31,2011-05-02,Standard Class,Mike Vittorini,Consumer,United States,US,Office Supplies,Xerox 1972,11,2,4.752,1.2,433
+2011-01-02,2011-03-02,Second Class,Patrick O'Donnell,Consumer,Bangladesh,APAC,Technology,Brother Personal Copier,286,2,71.4,57.3,434
+2011-01-02,2011-03-02,First Class,Liz Carlisle,Consumer,United States,US,Furniture,Sauder Facets Collection Library,291,2,3.4196,54.64,435
+2011-01-02,2011-04-02,Second Class,David Kendrick,Corporate,Angola,Africa,Office Supplies,Fellowes Lockers,206,1,92.88,53.08,436
+2011-01-02,2011-03-02,Second Class,Stephanie Phelps,Corporate,China,APAC,Office Supplies,Tenex Trays,163,3,68.31,44.36,437
+2011-01-02,2011-05-02,Second Class,David Kendrick,Corporate,China,APAC,Office Supplies,KitchenAid Coffee Grinder,352,5,137.4,33.15,438
+2011-01-02,2011-06-02,Standard Class,Dave Hallsten,Corporate,Panama,LATAM,Office Supplies,Hamilton Beach Refrigerator,401,2,20.024,21.38,439
+2011-01-02,2011-06-02,Standard Class,Patrick O'Brill,Consumer,Iran,EMEA,Furniture,Advantus Photo Frame,310,6,148.5,19.65,440
+2011-01-02,2011-03-02,Second Class,Gene Hale,Corporate,France,EU,Office Supplies,Binney & Smith Pencil Sharpener,140,5,15.3,19.23,441
+2011-01-02,2011-03-02,Second Class,Patrick O'Donnell,Consumer,Bangladesh,APAC,Office Supplies,Kleencut Ruler,41,3,11.79,11.13,442
+2011-01-02,2011-06-02,Standard Class,Dave Hallsten,Corporate,Panama,LATAM,Technology,Memorex Memory Card,82,2,-19.136,6.21,443
+2011-01-02,2011-05-02,Standard Class,Ralph Ritter,Consumer,Italy,EU,Office Supplies,Sanford Pencil Sharpener,78,3,20.34,6.03,444
+2011-01-02,2011-03-02,Second Class,Patrick O'Donnell,Consumer,Bangladesh,APAC,Office Supplies,Wilson Jones Hole Reinforcements,23,5,9.6,5.29,445
+2011-01-02,2011-03-02,Second Class,Patrick O'Donnell,Consumer,Bangladesh,APAC,Office Supplies,Smead File Folder Labels,20,3,9.9,3.78,446
+2011-01-02,2011-03-02,Second Class,Gene Hale,Corporate,France,EU,Office Supplies,GlobeWeis Peel and Seal,21,1,0.0,3.34,447
+2011-01-02,2011-07-02,Standard Class,Ionia McGrath,Consumer,Germany,EU,Office Supplies,Acco Hole Reinforcements,21,3,10.53,1.86,448
+2011-01-02,2011-07-02,Standard Class,Ionia McGrath,Consumer,Germany,EU,Office Supplies,Avery Hole Reinforcements,12,2,4.2,0.93,449
+2011-01-02,2011-06-02,Standard Class,Dave Hallsten,Corporate,Panama,LATAM,Office Supplies,Wilson Jones Hole Reinforcements,10,6,-0.984,0.81,450
+2011-02-02,2011-05-02,First Class,Erin Smith,Corporate,China,APAC,Furniture,Safco Stackable Bookrack,1,7,105.21,154.4,451
+2011-02-02,2011-05-02,First Class,Ken Heidel,Corporate,Germany,EU,Technology,Motorola Signal Booster,584,8,-58.56,109.14,452
+2011-02-02,2011-06-02,Standard Class,Evan Henry,Consumer,France,EU,Technology,Hewlett Copy Machine,550,6,-235.773,96.84,453
+2011-02-02,2011-05-02,First Class,Erin Smith,Corporate,China,APAC,Office Supplies,Eldon File Cart,381,3,102.78,88.42,454
+2011-02-02,2011-06-02,Second Class,Ed Braxton,Corporate,Spain,EU,Technology,Cisco Smart Phone,587,1,104.412,78.0,455
+2011-02-02,2011-02-02,Same Day,Ellis Ballard,Corporate,Germany,EU,Technology,Brother Wireless Fax,379,1,140.13,71.57,456
+2011-02-02,2011-05-02,First Class,Erin Smith,Corporate,China,APAC,Furniture,Bevis Computer Table,692,2,-207.732,70.94,457
+2011-02-02,2011-04-02,First Class,Bradley Drucker,Consumer,United States,US,Technology,Enermax Aurora Lite Keyboard,469,6,206.316,66.88,458
+2011-02-02,2011-07-02,Second Class,Ken Lonsdale,Consumer,Spain,EU,Furniture,Ikea Library with Doors,729,2,240.72,56.01,459
+2011-02-02,2011-04-02,First Class,Jill Matthias,Consumer,United Kingdom,EU,Technology,Cisco Headset,162,2,43.014,49.6,460
+2011-02-02,2011-04-02,Second Class,Giulietta Dortch,Corporate,Thailand,APAC,Furniture,Novimex Executive Leather Armchair,334,1,-109.9365,46.3,461
+2011-02-02,2011-02-02,Same Day,Ellis Ballard,Corporate,Germany,EU,Office Supplies,Fellowes File Cart,248,2,8.262,35.68,462
+2011-02-02,2011-05-02,First Class,Erin Smith,Corporate,China,APAC,Technology,Epson Receipt Printer,468,4,112.32,26.59,463
+2011-02-02,2011-07-02,Second Class,Ken Lonsdale,Consumer,Spain,EU,Furniture,SAFCO Steel Folding Chair,266,4,23.256,23.69,464
+2011-02-02,2011-05-02,First Class,Ken Heidel,Corporate,Germany,EU,Technology,HP Fax and Copier,86,1,-0.015,16.56,465
+2011-02-02,2011-04-02,Second Class,Giulietta Dortch,Corporate,Thailand,APAC,Office Supplies,Stanley Canvas,105,4,-47.5236,13.49,466
+2011-02-02,2011-06-02,Standard Class,Evan Henry,Consumer,France,EU,Technology,Konica Phone,89,3,-76.14,12.91,467
+2011-02-02,2011-06-02,Standard Class,Evan Henry,Consumer,France,EU,Office Supplies,SanDisk Memo Slips,46,5,-41.475,6.72,468
+2011-02-02,2011-06-02,Standard Class,Evan Henry,Consumer,France,EU,Technology,Logitech Numeric Keypad,44,2,-7.95,6.24,469
+2011-02-02,2011-04-02,First Class,Lori Olson,Corporate,Spain,EU,Office Supplies,Boston Highlighters,44,2,7.92,6.18,470
+2011-02-02,2011-07-02,Second Class,Ken Lonsdale,Consumer,Spain,EU,Office Supplies,BIC Canvas,57,1,0.54,5.96,471
+2011-02-02,2011-07-02,Second Class,Ken Lonsdale,Consumer,Spain,EU,Office Supplies,Sanford Pencil Sharpener,116,4,12.72,4.7,472
+2011-02-02,2011-06-02,Second Class,Ed Braxton,Corporate,Spain,EU,Office Supplies,Acme Box Cutter,38,1,18.12,4.16,473
+2011-02-02,2011-05-02,First Class,Erin Smith,Corporate,China,APAC,Office Supplies,Sanford Highlighters,95,5,42.45,4.14,474
+2011-02-02,2011-05-02,First Class,Ken Heidel,Corporate,Germany,EU,Office Supplies,Xerox Note Cards,13,1,-7.935,1.83,475
+2011-02-02,2011-04-02,Second Class,Giulietta Dortch,Corporate,Thailand,APAC,Office Supplies,Avery Color Coded Labels,44,6,-26.3376,1.78,476
+2011-02-02,2011-07-02,Standard Class,Duane Noonan,Consumer,Australia,APAC,Furniture,Rubbermaid Light Bulb,34,2,7.92,1.77,477
+2011-03-02,2011-05-02,Second Class,Max Ludwig,Home Office,Sweden,EU,Office Supplies,Boston Pencil Sharpener,91,6,-61.65,6.64,478
+2011-03-02,2011-10-02,Standard Class,Eric Barreto,Consumer,United States,US,Technology,AT&T 17929 Lendline Telephone,181,5,13.572,4.99,479
+2011-03-02,2011-07-02,Standard Class,Dean Braden,Consumer,Nigeria,Africa,Technology,Enermax Keyboard,25,1,-22.962,3.34,480
+2011-03-02,2011-08-02,Standard Class,Theresa Swint,Corporate,China,APAC,Office Supplies,OIC Push Pins,30,2,5.64,3.13,481
+2011-03-02,2011-10-02,Standard Class,Eric Barreto,Consumer,United States,US,Office Supplies,Surelock Post Binders,18,2,-12.224,1.66,482
+2011-03-02,2011-10-02,Standard Class,Shaun Weien,Consumer,Angola,Africa,Office Supplies,Wilson Jones Hole Reinforcements,9,2,4.5,0.8,483
+2011-03-02,2011-07-02,Standard Class,Cynthia Delaney,Home Office,United States,US,Office Supplies,Staples,12,5,5.8045,0.29,484
+2011-04-02,2011-07-02,First Class,Christopher Conant,Consumer,New Zealand,APAC,Technology,SanDisk Memory Card,441,4,39.6,66.08,485
+2011-04-02,2011-07-02,First Class,Christopher Conant,Consumer,New Zealand,APAC,Office Supplies,Breville Blender,884,10,70.5,42.0,486
+2011-04-02,2011-09-02,Second Class,Tom Stivers,Corporate,South Africa,Africa,Technology,Epson Receipt Printer,115,1,49.62,20.22,487
+2011-04-02,2011-08-02,Standard Class,Dorothy Dickinson,Consumer,France,EU,Office Supplies,Tenex Shelving,149,3,14.868,14.97,488
+2011-04-02,2011-07-02,Second Class,Tom Boeckenhauer,Consumer,United States,US,Office Supplies,Ibico Laser Imprintable Binding System Covers,84,2,27.248,8.82,489
+2011-04-02,2011-09-02,Second Class,Tom Stivers,Corporate,South Africa,Africa,Office Supplies,Wilson Jones 3,59,2,12.36,6.06,490
+2011-04-02,2011-08-02,Standard Class,Brad Thomas,Home Office,France,EU,Office Supplies,Binney & Smith Pens,30,2,10.86,3.76,491
+2011-04-02,2011-08-02,Standard Class,Brad Thomas,Home Office,France,EU,Office Supplies,Harbour Creations File Folder Labels,27,3,5.94,3.33,492
+2011-04-02,2011-07-02,Second Class,Tom Boeckenhauer,Consumer,United States,US,Office Supplies,Avery Durable Poly Binders,13,3,4.3134,2.26,493
+2011-04-02,2011-09-02,Second Class,Tom Stivers,Corporate,South Africa,Africa,Furniture,Advantus Stacking Tray,53,2,14.76,1.77,494
+2011-04-02,2011-09-02,Second Class,Ann Steele,Home Office,Nigeria,Africa,Office Supplies,Sanford Pens,7,2,-10.698,0.35,495
+2011-04-02,2011-09-02,Second Class,Tom Stivers,Corporate,South Africa,Africa,Office Supplies,Avery Hole Reinforcements,4,1,0.0,0.19,496
+2011-05-02,2011-12-02,Standard Class,Anthony Witt,Consumer,Turkey,EMEA,Furniture,Harbour Creations Chairmat,59,2,-69.84,4.77,497
+2011-05-02,2011-09-02,Second Class,Mark Haberlin,Corporate,United States,US,Office Supplies,GBC Standard Recycled Report Covers,17,2,6.0368,3.37,498
+2011-05-02,2011-09-02,Standard Class,Deborah Brumfield,Home Office,United States,US,Office Supplies,Message Book,34,4,16.0928,3.16,499
+2011-05-02,2011-09-02,Standard Class,Deborah Brumfield,Home Office,United States,US,Office Supplies,GBC Recycled Grain Textured Covers,83,3,29.0136,2.55,500
+2011-05-02,2011-12-02,Standard Class,Anthony Witt,Consumer,Turkey,EMEA,Office Supplies,Smead Shelving,20,1,-7.356,2.22,501
+2011-05-02,2011-12-02,Standard Class,Anthony Witt,Consumer,Turkey,EMEA,Furniture,Advantus Light Bulb,8,1,-2.622,0.55,502
+2011-06-02,2011-10-02,Second Class,Justin MacKendrick,Consumer,Turkey,EMEA,Office Supplies,Smead Round Labels,3,1,-2.352,0.23,503
+2011-07-02,2011-10-02,First Class,Neil Ducich,Corporate,United States,US,Technology,AT&T CL82213,145,5,42.0355,33.51,504
+2011-07-02,2011-12-02,Second Class,Natalie Webber,Consumer,Malaysia,APAC,Office Supplies,Rogers Trays,185,3,48.06,25.86,505
+2011-07-02,2011-10-02,First Class,Neil Ducich,Corporate,United States,US,Technology,Aastra 57i VoIP phone,162,1,42.0186,25.28,506
+2011-07-02,2011-02-13,Standard Class,Duane Benoit,Consumer,China,APAC,Office Supplies,Hoover Coffee Grinder,278,4,133.44,20.16,507
+2011-07-02,2011-02-14,Standard Class,Liz Thompson,Consumer,Indonesia,APAC,Technology,Cisco Signal Booster,252,2,6.0378,11.19,508
+2011-07-02,2011-11-02,Standard Class,Susan MacKendrick,Consumer,France,EU,Technology,Konica Receipt Printer,208,2,12.225,10.45,509
+2011-07-02,2011-11-02,Standard Class,Susan MacKendrick,Consumer,France,EU,Office Supplies,Stanley Pencil Sharpener,112,4,4.44,9.87,510
+2011-07-02,2011-11-02,Standard Class,Susan MacKendrick,Consumer,France,EU,Office Supplies,Avery Binder Covers,50,4,6.48,6.93,511
+2011-07-02,2011-02-13,Standard Class,Duane Benoit,Consumer,China,APAC,Office Supplies,Avery Legal Exhibit Labels,67,6,7.92,5.99,512
+2011-07-02,2011-12-02,Standard Class,Scott Williamson,Consumer,New Zealand,APAC,Technology,Sharp Copy Machine,285,2,-104.58,4.54,513
+2011-07-02,2011-12-02,Standard Class,George Bell,Corporate,France,EU,Office Supplies,Novimex Legal Exhibit Labels,31,3,10.62,3.58,514
+2011-07-02,2011-10-02,First Class,Neil Ducich,Corporate,United States,US,Office Supplies,Avery 480,15,4,7.2,2.27,515
+2011-07-02,2011-11-02,Second Class,Delfina Latchford,Consumer,United States,US,Office Supplies,Avery Flip,9,2,-14.7708,0.51,516
+2011-08-02,2011-11-02,Second Class,Chris Selesnick,Corporate,United States,US,Office Supplies,Acco Perma 4000 Stacking Storage Drawers,65,4,9.744,19.07,517
+2011-08-02,2011-12-02,Standard Class,Edward Becker,Corporate,France,EU,Office Supplies,Ibico 3,160,5,59.1,14.79,518
+2011-08-02,2011-02-13,Standard Class,Cyma Kinney,Corporate,United States,US,Technology,Maxell DVD,115,7,49.6048,12.6,519
+2011-08-02,2011-02-13,Standard Class,Shaun Weien,Consumer,Italy,EU,Office Supplies,Stockwell Clamps,110,6,21.78,5.55,520
+2011-08-02,2011-02-13,Standard Class,Kelly Williams,Consumer,Egypt,Africa,Office Supplies,Binney & Smith Sketch Pad,50,1,16.32,4.32,521
+2011-08-02,2011-02-14,Standard Class,Kelly Williams,Consumer,Chile,LATAM,Office Supplies,Smead Box,50,7,20.02,2.6,522
+2011-08-02,2011-02-13,Standard Class,Bart Pistole,Corporate,China,APAC,Furniture,Eldon Photo Frame,58,1,15.69,1.52,523
+2011-08-02,2011-02-14,Standard Class,Julia Barnett,Home Office,Iraq,EMEA,Office Supplies,Acco Binder,30,2,4.2,1.37,524
+2011-08-02,2011-02-13,Standard Class,Bart Pistole,Corporate,China,APAC,Office Supplies,Kleencut Ruler,39,3,8.1,1.27,525
+2011-08-02,2011-02-13,Standard Class,Kelly Williams,Consumer,Egypt,Africa,Furniture,SAFCO Swivel Stool,331,2,119.16,0.16,526
+2011-09-02,2011-11-02,Second Class,Tom Prescott,Consumer,Cuba,LATAM,Furniture,SAFCO Executive Leather Armchair,619,2,235.04,107.68,527
+2011-09-02,2011-02-13,Standard Class,Liz Thompson,Consumer,Mexico,LATAM,Technology,Hewlett Fax and Copier,513,4,91.53136,55.89,528
+2011-09-02,2011-09-02,Same Day,Shui Tom,Consumer,Cuba,LATAM,Technology,Cisco Signal Booster,405,4,52.64,53.53,529
+2011-09-02,2011-09-02,Same Day,Clay Ludtke,Consumer,Germany,EU,Office Supplies,Binney & Smith Pencil Sharpener,133,5,5.25,51.62,530
+2011-09-02,2011-02-13,Standard Class,Liz Thompson,Consumer,Mexico,LATAM,Furniture,Lesro Coffee Table,407,3,106.704,44.67,531
+2011-09-02,2011-11-02,Second Class,Tom Prescott,Consumer,Cuba,LATAM,Office Supplies,Hamilton Beach Blender,423,9,88.74,35.9,532
+2011-09-02,2011-02-13,Standard Class,Yoseph Carroll,Corporate,United Kingdom,EU,Furniture,Harbour Creations Rocking Chair,269,2,23.892,35.76,533
+2011-09-02,2011-02-13,Standard Class,Nat Gilpin,Corporate,Netherlands,EU,Furniture,Advantus Frame,267,3,89.982,35.11,534
+2011-09-02,2011-09-02,Same Day,Clay Ludtke,Consumer,Germany,EU,Office Supplies,Cardinal Binder Covers,80,7,20.79,23.0,535
+2011-09-02,2011-02-14,Standard Class,Hallie Redmond,Home Office,Spain,EU,Furniture,Ikea Corner Shelving,368,3,14.67,17.87,536
+2011-09-02,2011-02-13,Standard Class,Nat Gilpin,Corporate,Netherlands,EU,Office Supplies,Rogers Trays,91,3,-1.845,14.63,537
+2011-09-02,2011-02-15,Standard Class,Daniel Raglin,Home Office,South Korea,APAC,Office Supplies,Eldon File Cart,257,4,-205.5,13.62,538
+2011-09-02,2011-02-15,Standard Class,Daniel Raglin,Home Office,South Korea,APAC,Furniture,Lesro Coffee Table,203,4,-304.224,11.94,539
+2011-09-02,2011-02-13,Standard Class,Erica Hernandez,Home Office,Australia,APAC,Furniture,Deflect,137,6,22.626,9.45,540
+2011-09-02,2011-02-13,Standard Class,Nat Gilpin,Corporate,Netherlands,EU,Office Supplies,GlobeWeis Manila Envelope,55,4,-18.66,5.71,541
+2011-09-02,2011-02-14,Standard Class,Hallie Redmond,Home Office,Spain,EU,Office Supplies,Binney & Smith Sketch Pad,93,2,24.06,5.54,542
+2011-09-02,2011-02-14,Standard Class,Hallie Redmond,Home Office,Spain,EU,Office Supplies,Cardinal 3,85,3,17.73,5.17,543
+2011-09-02,2011-02-14,Standard Class,Hallie Redmond,Home Office,Spain,EU,Office Supplies,Smead Folders,60,4,-2.664,2.85,544
+2011-09-02,2011-02-14,Standard Class,Hallie Redmond,Home Office,Spain,EU,Office Supplies,Stockwell Rubber Bands,48,3,4.77,2.34,545
+2011-09-02,2011-10-02,First Class,Nathan Mautz,Home Office,United States,US,Furniture,Master Caster Door Stop,15,2,5.5328,1.57,546
+2011-09-02,2011-02-15,Standard Class,Daniel Raglin,Home Office,South Korea,APAC,Technology,Okidata Calculator,25,1,-20.79,1.49,547
+2011-09-02,2011-02-15,Standard Class,Daniel Raglin,Home Office,South Korea,APAC,Office Supplies,Acco Binding Machine,26,1,-11.835,1.27,548
+2011-10-02,2011-02-15,Standard Class,Carol Adams,Corporate,Japan,APAC,Technology,Samsung Smart Phone,6,11,2939.31,413.8,549
+2011-10-02,2011-02-15,Second Class,John Huston,Consumer,South Africa,Africa,Technology,Cisco Headset,718,8,243.84,143.07,550
+2011-10-02,2011-02-15,Standard Class,Michelle Ellison,Corporate,Spain,EU,Furniture,Dania Classic Bookcase,822,2,353.22,67.95,551
+2011-10-02,2011-10-02,Same Day,Paul Lucas,Home Office,Germany,EU,Office Supplies,Tenex File Cart,215,4,-220.032,60.85,552
+2011-10-02,2011-02-13,First Class,Frank Olsen,Consumer,Malaysia,APAC,Furniture,Novimex Bag Chairs,305,7,2.94,59.42,553
+2011-10-02,2011-02-14,Standard Class,Jennifer Patt,Corporate,Switzerland,EU,Furniture,Sauder Library with Doors,780,2,117.0,50.42,554
+2011-10-02,2011-02-14,Standard Class,Chad McGuire,Consumer,France,EU,Technology,Panasonic Receipt Printer,206,2,26.55,24.0,555
+2011-10-02,2011-02-14,Standard Class,Quincy Jones,Corporate,Mexico,LATAM,Office Supplies,KitchenAid Blender,133,2,9.28,22.02,556
+2011-10-02,2011-02-15,Standard Class,Carol Adams,Corporate,Japan,APAC,Office Supplies,Fiskars Trimmer,307,7,70.56,21.57,557
+2011-10-02,2011-02-15,Second Class,John Huston,Consumer,South Africa,Africa,Office Supplies,Cardinal 3,115,4,51.84,13.47,558
+2011-10-02,2011-02-16,Standard Class,Meg O'Connel,Home Office,Germany,EU,Office Supplies,Stanley Pencil Sharpener,124,5,39.6,12.38,559
+2011-10-02,2011-02-15,Standard Class,Carol Adams,Corporate,Japan,APAC,Furniture,Rubbermaid Photo Frame,201,4,24.12,12.3,560
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Office Supplies,Smead Lockers,197,1,17.76,11.44,561
+2011-10-02,2011-02-14,Standard Class,Quincy Jones,Corporate,Mexico,LATAM,Office Supplies,Ames Peel and Seal,87,7,0.84,11.22,562
+2011-10-02,2011-10-02,Same Day,Paul Lucas,Home Office,Germany,EU,Office Supplies,Avery Binder Covers,26,5,-14.325,8.95,563
+2011-10-02,2011-02-14,Standard Class,Chad McGuire,Consumer,France,EU,Office Supplies,Kraft Clasp Envelope,50,4,24.0,8.63,564
+2011-10-02,2011-02-14,Standard Class,Quincy Jones,Corporate,Mexico,LATAM,Office Supplies,Elite Ruler,41,4,16.4,6.63,565
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Office Supplies,Binney & Smith Highlighters,67,4,24.24,6.28,566
+2011-10-02,2011-02-14,Standard Class,Quincy Jones,Corporate,Mexico,LATAM,Office Supplies,GlobeWeis Peel and Seal,66,4,12.56,5.64,567
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Furniture,Rubbermaid Photo Frame,52,1,1.02,3.9,568
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Technology,Samsung Audio Dock,170,1,30.54,3.44,569
+2011-10-02,2011-02-15,Second Class,John Huston,Consumer,South Africa,Africa,Office Supplies,Advantus Staples,44,4,18.0,3.1,570
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Office Supplies,Elite Letter Opener,53,2,22.38,2.85,571
+2011-10-02,2011-02-15,Standard Class,Michelle Ellison,Corporate,Spain,EU,Office Supplies,Boston Highlighters,19,1,4.2,2.24,572
+2011-10-02,2011-02-14,Standard Class,Jennifer Patt,Corporate,Switzerland,EU,Office Supplies,BIC Highlighters,19,1,7.56,1.44,573
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Office Supplies,Sanford Pens,14,1,6.54,1.32,574
+2011-10-02,2011-02-13,Second Class,Michelle Ellison,Corporate,China,APAC,Office Supplies,Acme Ruler,9,1,-7.725,0.98,575
+2011-10-02,2011-02-15,Second Class,John Huston,Consumer,South Africa,Africa,Office Supplies,Ibico Index Tab,8,1,3.09,0.84,576
+2011-10-02,2011-02-14,Standard Class,Philisse Overcash,Home Office,Moldova,EMEA,Office Supplies,Accos Thumb Tacks,13,1,4.44,0.83,577
+2011-10-02,2011-02-13,First Class,Mary O'Rourke,Consumer,Uganda,Africa,Office Supplies,Cardinal Binder Covers,3,1,-5.052,0.39,578
+2011-11-02,2011-02-15,Standard Class,Anna Häberlin,Corporate,Zimbabwe,Africa,Technology,Hewlett Ink,445,10,-371.04,16.58,579
+2011-11-02,2011-02-13,Second Class,Lisa DeCherney,Consumer,Iran,EMEA,Technology,Samsung Signal Booster,138,1,66.18,15.49,580
+2011-11-02,2011-02-15,Standard Class,Steve Nguyen,Home Office,Brazil,LATAM,Technology,Canon Personal Copier,190,2,81.41936,11.76,581
+2011-11-02,2011-02-13,Second Class,Lisa DeCherney,Consumer,Iran,EMEA,Office Supplies,Smead Shelving,49,1,22.02,6.81,582
+2011-11-02,2011-02-15,Standard Class,Anna Häberlin,Corporate,Zimbabwe,Africa,Office Supplies,Fiskars Box Cutter,67,6,-55.728,5.99,583
+2011-11-02,2011-02-15,Standard Class,Anna Häberlin,Corporate,Zimbabwe,Africa,Office Supplies,Rogers File Cart,85,2,-124.662,5.61,584
+2011-11-02,2011-02-15,Standard Class,Sung Pak,Corporate,India,APAC,Office Supplies,Cardinal Index Tab,22,3,3.87,2.92,585
+2011-11-02,2011-02-15,Standard Class,Anna Häberlin,Corporate,Zimbabwe,Africa,Furniture,Advantus Light Bulb,12,2,-20.142,1.39,586
+2011-12-02,2011-02-16,Standard Class,Natalie Fritzler,Consumer,United States,US,Furniture,Hon 2111 Invitation Series Corner Table,1,6,75.3732,212.94,587
+2011-12-02,2011-02-14,First Class,Eric Murdock,Consumer,Morocco,Africa,Furniture,SAFCO Swivel Stool,682,4,327.12,201.54,588
+2011-12-02,2011-02-16,Standard Class,Natalie Fritzler,Consumer,United States,US,Technology,Enermax Aurora Lite Keyboard,234,3,103.158,38.36,589
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Furniture,Rubbermaid ClusterMat Chairmats,333,3,53.2704,18.55,590
+2011-12-02,2011-02-14,First Class,Eric Murdock,Consumer,Morocco,Africa,Office Supplies,Smead Shelving,48,1,22.08,12.48,591
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Furniture,Global Value Mid,61,1,15.2225,10.07,592
+2011-12-02,2011-02-14,First Class,Eric Murdock,Consumer,Morocco,Africa,Office Supplies,Eaton Computer Printout Paper,26,1,11.37,8.97,593
+2011-12-02,2011-02-14,First Class,Eric Murdock,Consumer,Morocco,Africa,Office Supplies,Fellowes Trays,57,1,3.99,8.97,594
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Office Supplies,Fellowes Neat Ideas Storage Cubes,65,2,2.5984,6.78,595
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Office Supplies,VariCap6 Expandable Binder,52,3,24.393,3.52,596
+2011-12-02,2011-02-16,Standard Class,Natalie Fritzler,Consumer,United States,US,Office Supplies,Wilson Jones Leather,17,2,8.2062,1.47,597
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Office Supplies,Avery 483,15,3,6.8724,1.12,598
+2011-12-02,2011-02-19,Standard Class,Michael Granlund,Home Office,India,APAC,Office Supplies,Cardinal Binder,14,1,3.3,0.97,599
+2011-12-02,2011-02-16,Second Class,Guy Armstrong,Consumer,United States,US,Office Supplies,Wilson Jones Turn Tabs Binder Tool for Ring Binders,10,2,4.4344,0.33,600
+2011-02-13,2011-02-19,Standard Class,Sanjit Chand,Consumer,United States,US,Furniture,Global Geo Office Task Chair,130,2,-24.294,3.26,601
+2011-02-14,2011-02-16,Second Class,Muhammed MacIntyre,Corporate,Russia,EMEA,Technology,Canon Fax Machine,1,4,319.8,286.19,602
+2011-02-14,2011-02-16,Second Class,Muhammed MacIntyre,Corporate,Russia,EMEA,Furniture,Eldon Frame,465,4,130.2,121.21,603
+2011-02-14,2011-02-16,Second Class,Muhammed MacIntyre,Corporate,Russia,EMEA,Technology,Brother Ink,297,2,145.74,82.46,604
+2011-02-14,2011-02-18,Standard Class,Katrina Bavinger,Home Office,Australia,APAC,Technology,Cisco Signal Booster,607,4,115.32,31.65,605
+2011-02-14,2011-02-18,Standard Class,Katrina Bavinger,Home Office,Australia,APAC,Office Supplies,Tenex Lockers,406,2,178.8,30.38,606
+2011-02-14,2011-02-18,Standard Class,Jasper Cacioppo,Consumer,Niger,Africa,Office Supplies,SanDisk Computer Printout Paper,238,8,106.8,28.45,607
+2011-02-14,2011-02-19,Standard Class,Laurel Beltran,Home Office,Cuba,LATAM,Technology,Motorola Office Telephone,192,4,13.36,20.14,608
+2011-02-14,2011-02-18,Standard Class,Toby Gnade,Consumer,China,APAC,Office Supplies,Sanford Canvas,254,5,76.05,16.29,609
+2011-02-14,2011-02-18,Second Class,Toby Carlisle,Consumer,Senegal,Africa,Office Supplies,GlobeWeis Mailers,77,2,0.72,15.23,610
+2011-02-14,2011-02-19,Standard Class,Laurel Beltran,Home Office,Cuba,LATAM,Office Supplies,Elite Scissors,77,6,24.6,13.32,611
+2011-02-14,2011-02-18,Standard Class,Toby Gnade,Consumer,China,APAC,Furniture,Tenex Photo Frame,147,3,61.56,11.53,612
+2011-02-14,2011-02-19,Standard Class,Laurel Beltran,Home Office,Cuba,LATAM,Office Supplies,Rogers Shelving,82,2,22.84,9.61,613
+2011-02-14,2011-02-19,Standard Class,Laurel Beltran,Home Office,Cuba,LATAM,Technology,Belkin Numeric Keypad,77,2,33.2,8.38,614
+2011-02-14,2011-02-18,Standard Class,Katrina Bavinger,Home Office,Australia,APAC,Office Supplies,Fiskars Trimmer,156,4,26.52,6.91,615
+2011-02-14,2011-02-16,Second Class,Deborah Brumfield,Home Office,Hong Kong,APAC,Office Supplies,Stockwell Clamps,58,3,5.13,6.7,616
+2011-02-14,2011-02-16,Second Class,Deborah Brumfield,Home Office,Hong Kong,APAC,Technology,Motorola Office Telephone,73,1,29.94,6.34,617
+2011-02-14,2011-02-19,Second Class,Helen Andreada,Consumer,Spain,EU,Office Supplies,BIC Markers,26,1,0.51,2.68,618
+2011-02-14,2011-02-18,Standard Class,Katrina Bavinger,Home Office,Australia,APAC,Office Supplies,Avery Index Tab,27,4,5.04,2.11,619
+2011-02-14,2011-02-18,Second Class,Toby Carlisle,Consumer,Senegal,Africa,Office Supplies,Avery Index Tab,16,2,6.42,2.03,620
+2011-02-14,2011-02-20,Standard Class,Toby Braunhardt,Consumer,Russia,EMEA,Office Supplies,Sanford Pencil Sharpener,27,1,13.53,2.03,621
+2011-02-14,2011-02-19,Standard Class,Laurel Beltran,Home Office,Cuba,LATAM,Office Supplies,Stanley Pens,14,2,6.16,1.78,622
+2011-02-14,2011-02-19,Second Class,Helen Andreada,Consumer,Spain,EU,Office Supplies,Eldon Box,9,1,1.614,0.79,623
+2011-02-15,2011-02-16,First Class,Pete Armstrong,Home Office,South Africa,Africa,Office Supplies,Smead Lockers,2,14,779.52,422.25,624
+2011-02-15,2011-02-19,Standard Class,Jeremy Ellison,Consumer,Japan,APAC,Furniture,Sauder Classic Bookcase,1,4,645.24,181.61,625
+2011-02-15,2011-02-21,Standard Class,Christopher Martinez,Consumer,Philippines,APAC,Technology,Nokia Signal Booster,921,9,-172.125,128.01,626
+2011-02-15,2011-02-21,Standard Class,Christopher Martinez,Consumer,Philippines,APAC,Technology,Brother Fax Machine,1,6,-456.174,118.63,627
+2011-02-15,2011-02-20,Standard Class,Gary Zandusky,Consumer,Netherlands,EU,Furniture,Sauder Classic Bookcase,875,4,-577.32,78.18,628
+2011-02-15,2011-02-21,Standard Class,Tracy Poddar,Corporate,Spain,EU,Furniture,Hon Executive Leather Armchair,728,2,-81.864,60.76,629
+2011-02-15,2011-02-20,Standard Class,Gary Zandusky,Consumer,Netherlands,EU,Furniture,Barricks Coffee Table,273,3,-499.977,21.13,630
+2011-02-15,2011-02-19,Standard Class,Marina Lichtenstein,Corporate,United States,US,Office Supplies,Compact Automatic Electric Letter Opener,239,2,4.7724,20.08,631
+2011-02-15,2011-02-21,Standard Class,Christopher Martinez,Consumer,Philippines,APAC,Technology,Cisco Headset,137,2,-1.845,16.42,632
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Technology,Okidata Calculator,209,4,4.08,15.22,633
+2011-02-15,2011-02-19,Standard Class,Marina Lichtenstein,Corporate,United States,US,Technology,Logitech G600 MMO Gaming Mouse,240,3,86.3892,13.45,634
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Tenex File Cart,135,1,63.24,13.08,635
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Boston Markers,158,6,64.8,10.16,636
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Cuisinart Blender,133,2,1.32,9.99,637
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Stanley Canvas,99,2,23.82,9.19,638
+2011-02-15,2011-02-21,Standard Class,Tracy Poddar,Corporate,Spain,EU,Furniture,Rubbermaid Door Stop,127,3,19.08,8.53,639
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Green Bar Message Books,95,4,9.48,6.19,640
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Furniture,Eldon Clock,55,1,18.72,5.69,641
+2011-02-15,2011-02-19,Standard Class,Marina Lichtenstein,Corporate,United States,US,Office Supplies,Belkin 8 Outlet Surge Protector,82,2,22.9488,4.71,642
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,Green Bar Note Cards,31,1,3.42,1.95,643
+2011-02-15,2011-02-20,Second Class,Shui Tom,Consumer,United States,US,Office Supplies,Memo Book,16,3,6.066,1.27,644
+2011-02-15,2011-02-20,Standard Class,Trudy Brown,Consumer,Democratic Republic of the Congo,Africa,Office Supplies,OIC Push Pins,30,2,12.0,0.95,645
+2011-02-16,2011-02-19,Second Class,Odella Nelson,Corporate,France,EU,Furniture,SAFCO Executive Leather Armchair,4,11,1868.13,506.27,646
+2011-02-16,2011-02-21,Standard Class,Benjamin Farhat,Home Office,India,APAC,Technology,Okidata Card Printer,1,7,423.78,113.03,647
+2011-02-16,2011-02-20,Standard Class,Matt Hagelstein,Corporate,Cuba,LATAM,Technology,Enermax Router,517,3,180.96,48.23,648
+2011-02-16,2011-02-19,Second Class,Odella Nelson,Corporate,France,EU,Office Supplies,Hoover Microwave,277,1,-0.027,27.94,649
+2011-02-16,2011-02-21,Standard Class,Bart Watters,Corporate,Australia,APAC,Technology,Panasonic Printer,480,2,58.638,26.73,650
+2011-02-16,2011-02-21,Standard Class,Bart Watters,Corporate,Australia,APAC,Furniture,Office Star Swivel Stool,476,3,15.831,25.88,651
+2011-02-16,2011-02-19,Second Class,Odella Nelson,Corporate,France,EU,Technology,Nokia Audio Dock,284,2,43.371,23.67,652
+2011-02-16,2011-02-21,Standard Class,Bart Watters,Corporate,Australia,APAC,Furniture,Novimex Swivel Stool,292,2,38.874,12.64,653
+2011-02-16,2011-02-20,Standard Class,Matt Hagelstein,Corporate,Cuba,LATAM,Office Supplies,Hamilton Beach Blender,239,5,31.1,12.28,654
+2011-02-16,2011-02-21,Standard Class,Benjamin Farhat,Home Office,India,APAC,Furniture,Advantus Clock,150,3,58.5,8.48,655
+2011-02-16,2011-02-20,Standard Class,Matt Hagelstein,Corporate,Cuba,LATAM,Technology,Brother Ink,294,3,49.4508,7.47,656
+2011-02-16,2011-02-19,Second Class,Odella Nelson,Corporate,France,EU,Office Supplies,Stanley Highlighters,90,6,32.22,6.89,657
+2011-02-16,2011-02-20,Standard Class,Rob Williams,Corporate,France,EU,Technology,Apple Speaker Phone,105,1,30.8415,5.83,658
+2011-02-16,2011-02-20,Second Class,Tracy Zic,Consumer,Nicaragua,LATAM,Furniture,Tenex Stacking Tray,80,5,1.5,4.39,659
+2011-02-16,2011-02-20,Standard Class,Rob Williams,Corporate,France,EU,Office Supplies,Enermax Parchment Paper,62,4,0.0,3.13,660
+2011-02-16,2011-02-20,Standard Class,Barry Französisch,Corporate,United States,US,Office Supplies,Pressboard Data Binders by Wilson Jones,21,5,7.209,2.41,661
+2011-02-16,2011-02-21,Standard Class,Benjamin Farhat,Home Office,India,APAC,Office Supplies,Avery Color Coded Labels,40,3,8.73,2.35,662
+2011-02-16,2011-02-21,Standard Class,Benjamin Farhat,Home Office,India,APAC,Furniture,Bush Corner Shelving,123,1,50.61,1.34,663
+2011-02-16,2011-02-20,Standard Class,Rob Williams,Corporate,France,EU,Office Supplies,Boston Highlighters,38,2,8.4,1.32,664
+2011-02-16,2011-02-20,Standard Class,Matt Hagelstein,Corporate,Cuba,LATAM,Office Supplies,Acco Index Tab,11,2,4.48,0.7,665
+2011-02-17,2011-02-22,Standard Class,Emily Ducich,Home Office,Guatemala,LATAM,Technology,Cisco Signal Booster,309,3,102.06,26.54,666
+2011-02-17,2011-02-22,Standard Class,Emily Ducich,Home Office,Guatemala,LATAM,Furniture,Advantus Light Bulb,67,5,2.6,11.37,667
+2011-02-17,2011-02-19,First Class,Laura Armstrong,Corporate,China,APAC,Office Supplies,Advantus Rubber Bands,70,5,29.4,10.97,668
+2011-02-17,2011-02-22,Standard Class,Laurel Beltran,Home Office,Thailand,APAC,Office Supplies,Ibico Binding Machine,127,3,-25.9488,7.69,669
+2011-02-17,2011-02-22,Standard Class,Emily Ducich,Home Office,Guatemala,LATAM,Office Supplies,GlobeWeis Peel and Seal,29,2,13.96,2.53,670
+2011-02-17,2011-02-19,First Class,Katrina Willman,Consumer,Zimbabwe,Africa,Office Supplies,Binney & Smith Markers,8,1,-14.469,2.38,671
+2011-02-17,2011-02-22,Standard Class,Michael Nguyen,Consumer,United States,US,Office Supplies,Holmes Cool Mist Humidifier for the Whole House with 8,8,2,-13.93,0.92,672
+2011-02-17,2011-02-22,Standard Class,Roger Demir,Consumer,Nigeria,Africa,Office Supplies,Harbour Creations Removable Labels,6,2,-7.05,0.56,673
+2011-02-17,2011-02-19,First Class,Katrina Willman,Consumer,Zimbabwe,Africa,Office Supplies,Sanford Highlighters,6,1,-6.441,0.4,674
+2011-02-17,2011-02-22,Standard Class,Michael Nguyen,Consumer,United States,US,Office Supplies,Wilson Jones Easy Flow II Sheet Lifters,1,3,-1.728,0.11,675
+2011-02-18,2011-02-21,Second Class,Michelle Lonsdale,Corporate,Australia,APAC,Technology,Cisco Audio Dock,825,5,54.87,161.63,676
+2011-02-18,2011-02-20,First Class,Skye Norling,Home Office,Canada,Canada,Office Supplies,Cuisinart Microwave,277,1,30.42,46.69,677
+2011-02-18,2011-02-20,First Class,Charles McCrossin,Consumer,South Korea,APAC,Technology,SanDisk Router,258,2,-165.03,29.12,678
+2011-02-18,2011-02-23,Standard Class,Alan Barnes,Consumer,France,EU,Technology,Panasonic Calculator,129,3,-1.53,13.21,679
+2011-02-18,2011-02-23,Standard Class,Ruben Dartt,Consumer,India,APAC,Furniture,Harbour Creations Steel Folding Chair,300,3,18.0,12.23,680
+2011-02-18,2011-02-24,Standard Class,Jim Radford,Consumer,Australia,APAC,Office Supplies,SanDisk Parchment Paper,82,5,24.39,7.44,681
+2011-02-18,2011-02-20,First Class,Skye Norling,Home Office,Canada,Canada,Office Supplies,Acme Box Cutter,37,1,13.02,7.41,682
+2011-02-18,2011-02-22,Second Class,Daniel Lacy,Consumer,Germany,EU,Office Supplies,OIC Staples,62,7,23.31,7.12,683
+2011-02-18,2011-02-20,First Class,Skye Norling,Home Office,Canada,Canada,Office Supplies,KitchenAid Blender,97,1,36.84,6.88,684
+2011-02-18,2011-02-21,Second Class,Michelle Lonsdale,Corporate,Australia,APAC,Office Supplies,Elite Letter Opener,24,1,10.41,5.13,685
+2011-02-18,2011-02-25,Standard Class,Delfina Latchford,Consumer,United States,US,Office Supplies,Staples,54,14,8.8088,4.11,686
+2011-02-18,2011-02-20,First Class,Skye Norling,Home Office,Canada,Canada,Office Supplies,SanDisk Note Cards,30,1,7.71,3.92,687
+2011-02-18,2011-02-24,Standard Class,Ken Heidel,Corporate,France,EU,Office Supplies,OIC Thumb Tacks,35,3,13.77,3.5,688
+2011-02-18,2011-02-23,Standard Class,Alan Barnes,Consumer,France,EU,Office Supplies,Avery Hole Reinforcements,24,4,8.4,2.77,689
+2011-02-18,2011-02-21,Second Class,Michelle Lonsdale,Corporate,Australia,APAC,Office Supplies,Novimex Removable Labels,14,2,1.686,1.37,690
+2011-02-18,2011-02-22,Second Class,Daniel Lacy,Consumer,Germany,EU,Office Supplies,Advantus Thumb Tacks,55,5,8.25,1.27,691
+2011-02-19,2011-02-21,Second Class,Larry Tron,Consumer,India,APAC,Office Supplies,Stiletto Trimmer,118,3,36.63,9.87,692
+2011-02-19,2011-02-19,Same Day,Troy Blackwell,Consumer,United States,US,Furniture,DAX Copper Panel Document Frame,25,5,-11.322,1.39,693
+2011-02-19,2011-02-25,Standard Class,Aaron Bergman,Consumer,United States,US,Office Supplies,Akro Stacking Bins,13,2,-2.5248,0.97,694
+2011-02-21,2011-02-25,Standard Class,Sam Craven,Consumer,Japan,APAC,Technology,StarTech Card Printer,803,5,224.85,78.45,695
+2011-02-21,2011-02-26,Standard Class,Zuschuss Donatelli,Consumer,Italy,EU,Furniture,Barricks Round Table,1,4,-942.9,72.92,696
+2011-02-21,2011-02-25,Standard Class,John Lucas,Consumer,Australia,APAC,Office Supplies,Eldon File Cart,806,7,-62.853,54.17,697
+2011-02-21,2011-02-28,Standard Class,Erin Ashbrook,Corporate,China,APAC,Technology,Canon Ink,297,2,56.46,51.95,698
+2011-02-21,2011-02-21,Same Day,Liz MacKendrick,Consumer,Philippines,APAC,Office Supplies,Green Bar Cards & Envelopes,173,6,-104.031,37.06,699
+2011-02-21,2011-02-25,Second Class,Andrew Roberts,Consumer,Hong Kong,APAC,Furniture,Ikea Floating Shelf Set,346,2,114.06,27.59,700
+2011-02-21,2011-02-28,Standard Class,Erin Ashbrook,Corporate,China,APAC,Office Supplies,GlobeWeis Peel and Seal,150,6,70.2,19.92,701
+2011-02-21,2011-02-25,Standard Class,John Lucas,Consumer,Australia,APAC,Technology,Apple Office Telephone,184,3,75.591,18.66,702
+2011-02-21,2011-02-23,Second Class,Arthur Gainer,Consumer,Singapore,APAC,Furniture,SAFCO Chairmat,179,3,69.93,17.13,703
+2011-02-21,2011-02-26,Standard Class,Zuschuss Donatelli,Consumer,Italy,EU,Office Supplies,Binney & Smith Canvas,164,3,78.48,16.05,704
+2011-02-21,2011-02-21,Same Day,Liz MacKendrick,Consumer,Philippines,APAC,Technology,Nokia Speaker Phone,93,1,-7.47,8.84,705
+2011-02-21,2011-02-27,Standard Class,Linda Cazamias,Corporate,United States,US,Technology,Enermax Briskie RF Wireless Keyboard and Mouse Combo,62,3,22.4316,3.97,706
+2011-02-21,2011-02-25,Second Class,Andrew Roberts,Consumer,Hong Kong,APAC,Office Supplies,Stockwell Thumb Tacks,25,2,4.74,2.96,707
+2011-02-21,2011-02-25,Standard Class,John Lucas,Consumer,Australia,APAC,Office Supplies,Novimex Round Labels,36,6,8.244,2.54,708
+2011-02-21,2011-02-26,Standard Class,Zuschuss Donatelli,Consumer,Italy,EU,Technology,Okidata Calculator,30,1,-5.466,2.41,709
+2011-02-21,2011-02-26,Standard Class,Zuschuss Donatelli,Consumer,Italy,EU,Office Supplies,Smead Trays,29,1,-13.092,2.34,710
+2011-02-21,2011-02-25,Standard Class,Sarah Jordon,Consumer,Switzerland,EU,Office Supplies,Stockwell Thumb Tacks,21,2,5.88,1.8,711
+2011-02-21,2011-02-25,Standard Class,Sarah Jordon,Consumer,Switzerland,EU,Office Supplies,Smead Box,32,3,8.37,1.77,712
+2011-02-21,2011-02-28,Standard Class,Alice McCarthy,Corporate,Italy,EU,Office Supplies,Novimex File Folder Labels,18,3,3.69,1.54,713
+2011-02-21,2011-02-25,Standard Class,Steven Roelle,Home Office,United States,US,Office Supplies,Xerox 204,13,2,6.2208,1.14,714
+2011-02-21,2011-02-27,Standard Class,Linda Cazamias,Corporate,United States,US,Furniture,Master Caster Door Stop,20,4,6.9088,0.83,715
+2011-02-22,2011-02-26,Standard Class,Paul Gonzalez,Consumer,Italy,EU,Technology,Konica Printer,477,3,39.672,85.57,716
+2011-02-22,2011-02-27,Second Class,Rick Wilson,Corporate,Poland,EMEA,Office Supplies,Avery Binding Machine,403,8,24.0,30.21,717
+2011-02-22,2011-02-26,Standard Class,Paul Gonzalez,Consumer,Italy,EU,Furniture,Advantus Clock,103,2,29.76,20.15,718
+2011-02-22,2011-02-27,Standard Class,Sam Zeldin,Home Office,Iran,EMEA,Furniture,Hon Computer Table,490,1,63.66,17.73,719
+2011-02-22,2011-02-27,Second Class,Rick Wilson,Corporate,Poland,EMEA,Technology,Panasonic Phone,333,4,29.88,15.62,720
+2011-02-22,2011-02-26,Standard Class,Paul Gonzalez,Consumer,Italy,EU,Office Supplies,Avery Binder Covers,63,5,8.1,9.61,721
+2011-02-22,2011-02-27,Standard Class,Christopher Martinez,Consumer,Ireland,EU,Technology,Apple Speaker Phone,185,3,-92.52,9.15,722
+2011-02-22,2011-02-27,Standard Class,Sam Zeldin,Home Office,Iran,EMEA,Office Supplies,Stockwell Clamps,115,6,25.38,6.92,723
+2011-02-22,2011-02-26,Standard Class,Rick Huthwaite,Home Office,India,APAC,Technology,Logitech Memory Card,207,2,43.5,5.99,724
+2011-02-22,2011-02-27,Standard Class,Sam Zeldin,Home Office,Iran,EMEA,Office Supplies,Fellowes Shelving,58,1,15.03,5.34,725
+2011-02-22,2011-02-24,Second Class,Andrew Gjertsen,Corporate,Turkey,EMEA,Office Supplies,Rogers Trays,25,1,-18.528,3.84,726
+2011-02-22,2011-02-26,Standard Class,Paul Gonzalez,Consumer,Italy,EU,Office Supplies,Acco Binder Covers,41,3,12.24,3.66,727
+2011-02-22,2011-02-26,Standard Class,Paul Gonzalez,Consumer,Italy,EU,Office Supplies,Avery Binder Covers,23,2,8.22,3.23,728
+2011-02-22,2011-02-26,Standard Class,Patricia Hirasaki,Home Office,Democratic Republic of the Congo,Africa,Office Supplies,BIC Highlighters,38,2,15.12,3.15,729
+2011-02-22,2011-02-27,Second Class,Rick Wilson,Corporate,Poland,EMEA,Office Supplies,Jiffy Peel and Seal,47,2,8.94,1.95,730
+2011-02-22,2011-02-24,Second Class,Julia Dunbar,Consumer,France,EU,Office Supplies,Wilson Jones Hole Reinforcements,10,2,2.34,1.09,731
+2011-02-22,2011-02-26,Standard Class,Tamara Manning,Consumer,United States,US,Office Supplies,GBC Standard Plastic Binding Systems Combs,9,5,-13.7175,0.7,732
+2011-02-22,2011-02-24,Second Class,Andrew Gjertsen,Corporate,Turkey,EMEA,Office Supplies,Eaton Parchment Paper,6,1,-5.658,0.54,733
+2011-02-22,2011-02-27,Standard Class,Sam Zeldin,Home Office,Iran,EMEA,Office Supplies,Harbour Creations Color Coded Labels,11,1,1.5,0.34,734
+2011-02-22,2011-02-26,Standard Class,Michelle Lonsdale,Corporate,Turkey,EMEA,Office Supplies,Hon Shipping Labels,4,1,-2.322,0.34,735
+2011-02-23,2011-02-26,First Class,Mitch Gastineau,Corporate,India,APAC,Technology,Hewlett Wireless Fax,1,4,732.72,319.53,736
+2011-02-23,2011-02-26,First Class,Mitch Gastineau,Corporate,India,APAC,Furniture,Ikea Classic Bookcase,2,5,41.25,248.81,737
+2011-02-23,2011-02-26,First Class,Mary O'Rourke,Consumer,Mexico,LATAM,Furniture,Harbour Creations Bag Chairs,158,5,-0.06,59.64,738
+2011-02-23,2011-02-26,Second Class,Roland Fjeld,Consumer,Pakistan,APAC,Furniture,Harbour Creations Steel Folding Chair,160,2,-28.056,25.95,739
+2011-02-23,2011-02-26,Second Class,Roland Fjeld,Consumer,Pakistan,APAC,Technology,Nokia Office Telephone,98,3,-29.43,13.05,740
+2011-02-23,2011-02-23,Same Day,Carlos Meador,Consumer,Azerbaijan,EMEA,Office Supplies,Wilson Jones Binding Machine,49,1,5.4,9.76,741
+2011-02-23,2011-02-26,First Class,Mitch Gastineau,Corporate,India,APAC,Office Supplies,Stiletto Trimmer,169,4,70.8,8.4,742
+2011-02-23,2011-02-25,First Class,Sue Ann Reed,Consumer,United States,US,Office Supplies,Xerox 220,19,3,9.3312,5.01,743
+2011-02-23,2011-02-26,First Class,Mitch Gastineau,Corporate,India,APAC,Office Supplies,Cameo Clasp Envelope,17,2,3.3,3.97,744
+2011-02-23,2011-02-26,Second Class,Roland Fjeld,Consumer,Pakistan,APAC,Office Supplies,SanDisk Note Cards,45,3,0.0,1.48,745
+2011-02-23,2011-02-28,Standard Class,Giulietta Dortch,Corporate,Italy,EU,Furniture,Harbour Creations Bag Chairs,47,2,-60.408,0.93,746
+2011-02-24,2011-02-28,Standard Class,Julie Creighton,Corporate,Belgium,EU,Furniture,Bush Classic Bookcase,2,5,103.8,197.11,747
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Technology,Cisco Smart Phone,654,1,287.85,136.02,748
+2011-02-24,2011-02-24,Same Day,Carlos Soltero,Consumer,Brazil,LATAM,Technology,Canon Wireless Fax,501,2,84.39504,69.65,749
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Technology,Belkin Keyboard,490,6,29.34,39.03,750
+2011-02-24,2011-02-28,Standard Class,Gary Zandusky,Consumer,Brazil,LATAM,Technology,Okidata Printer,143,2,-85.976,22.4,751
+2011-02-24,2011-02-25,First Class,Jim Mitchum,Corporate,Myanmar (Burma),APAC,Office Supplies,Kraft Peel and Seal,95,5,-7.0065,19.89,752
+2011-02-24,2011-02-24,Same Day,Carlos Soltero,Consumer,Brazil,LATAM,Technology,Cisco Signal Booster,612,6,238.8,19.51,753
+2011-02-24,2011-02-28,Standard Class,Julie Creighton,Corporate,Belgium,EU,Office Supplies,Acco Binding Machine,309,6,77.04,13.8,754
+2011-02-24,2011-03-03,Standard Class,Toby Braunhardt,Consumer,Canada,Canada,Office Supplies,Fellowes Shelving,57,1,23.31,7.54,755
+2011-02-24,2011-02-28,Standard Class,Gary Zandusky,Consumer,Dominican Republic,LATAM,Technology,Okidata Printer,107,2,-121.792,7.32,756
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Office Supplies,Rogers Trays,62,1,24.84,6.07,757
+2011-02-24,2011-02-27,First Class,Damala Kotsonis,Corporate,Nigeria,Africa,Technology,Okidata Receipt Printer,37,1,-81.201,5.89,758
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Office Supplies,Acco Hole Reinforcements,27,4,2.28,5.51,759
+2011-02-24,2011-02-28,Standard Class,Julie Creighton,Corporate,Belgium,EU,Technology,Brother Copy Machine,525,2,57.66,4.97,760
+2011-02-24,2011-02-28,Standard Class,Christy Brittain,Consumer,Senegal,Africa,Technology,Logitech Flash Drive,64,2,30.06,4.15,761
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Office Supplies,Wilson Jones Hole Reinforcements,16,4,1.68,3.14,762
+2011-02-24,2011-02-24,Same Day,Carlos Soltero,Consumer,Brazil,LATAM,Office Supplies,SanDisk Computer Printout Paper,68,3,1.32,2.99,763
+2011-02-24,2011-02-25,First Class,Tom Stivers,Corporate,Iran,EMEA,Office Supplies,Ibico Index Tab,9,1,4.05,1.04,764
+2011-02-24,2011-02-28,Standard Class,Michael Grace,Home Office,United States,US,Office Supplies,Staples,7,3,2.3409,0.5,765
+2011-02-24,2011-02-27,First Class,Damala Kotsonis,Corporate,Nigeria,Africa,Office Supplies,Xerox Memo Slips,4,1,-7.398,0.27,766
+2011-02-24,2011-02-28,Standard Class,Michael Grace,Home Office,United States,US,Office Supplies,GBC Plastic Binding Combs,4,3,-6.8634,0.23,767
+2011-02-25,2011-02-25,Same Day,Rose O'Brian,Consumer,Algeria,Africa,Technology,Epson Inkjet,613,2,202.32,241.33,768
+2011-02-25,2011-03-03,Standard Class,Fred McMath,Consumer,China,APAC,Technology,Samsung Audio Dock,1,9,656.64,172.32,769
+2011-02-25,2011-02-25,Same Day,Rose O'Brian,Consumer,Algeria,Africa,Office Supplies,Eldon Lockers,394,2,78.78,110.6,770
+2011-02-25,2011-02-25,Same Day,Rose O'Brian,Consumer,Algeria,Africa,Office Supplies,SanDisk Computer Printout Paper,339,10,37.2,27.29,771
+2011-02-25,2011-02-25,Same Day,Rose O'Brian,Consumer,Algeria,Africa,Office Supplies,Advantus Paper Clips,54,4,12.84,22.06,772
+2011-02-25,2011-02-28,Second Class,Mike Kennedy,Consumer,Cuba,LATAM,Furniture,Eldon Stacking Tray,57,3,6.84,20.1,773
+2011-02-25,2011-02-27,Second Class,Tracy Hopkins,Home Office,Democratic Republic of the Congo,Africa,Office Supplies,Stockwell Clamps,98,6,34.2,18.74,774
+2011-02-25,2011-01-03,Standard Class,Emily Grady,Consumer,Guatemala,LATAM,Technology,HP Fax and Copier,232,2,43.69512,14.26,775
+2011-02-25,2011-02-03,Standard Class,Jennifer Halladay,Consumer,United States,US,Office Supplies,Message Book,33,4,11.1024,2.37,776
+2011-02-25,2011-02-25,Same Day,Rose O'Brian,Consumer,Algeria,Africa,Office Supplies,Novimex Legal Exhibit Labels,8,1,0.57,2.14,777
+2011-02-25,2011-02-03,Standard Class,Jennifer Halladay,Consumer,United States,US,Office Supplies,TOPS 4 x 6 Fluorescent Color Memo Sheets,23,3,7.6869,1.97,778
+2011-02-25,2011-02-27,Second Class,Tracy Hopkins,Home Office,Democratic Republic of the Congo,Africa,Office Supplies,Novimex Shipping Labels,9,1,1.59,1.13,779
+2011-02-25,2011-02-27,Second Class,Tracy Hopkins,Home Office,Democratic Republic of the Congo,Africa,Office Supplies,Acco Hole Reinforcements,7,1,0.57,0.7,780
+2011-02-26,2011-02-28,Second Class,Bill Stewart,Corporate,Nicaragua,LATAM,Technology,Sharp Fax Machine,988,5,126.7194,107.47,781
+2011-02-26,2011-02-28,Second Class,Bill Stewart,Corporate,Nicaragua,LATAM,Furniture,Safco 3,685,6,280.92,88.39,782
+2011-02-26,2011-01-03,Second Class,Michael Dominguez,Corporate,Indonesia,APAC,Technology,Epson Receipt Printer,287,3,-45.1044,81.63,783
+2011-02-26,2011-04-03,Standard Class,Bobby Odegard,Consumer,Netherlands,EU,Furniture,Advantus Frame,533,6,-0.144,39.26,784
+2011-02-26,2011-02-03,Second Class,Rob Lucas,Consumer,El Salvador,LATAM,Office Supplies,Tenex File Cart,268,3,10.68,33.3,785
+2011-02-26,2011-02-28,First Class,David Flashing,Consumer,Japan,APAC,Office Supplies,Kleencut Letter Opener,79,3,25.38,28.91,786
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Cuba,LATAM,Furniture,Harbour Creations Swivel Stool,360,3,104.46,27.4,787
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Brazil,LATAM,Furniture,Harbour Creations Swivel Stool,144,3,-111.684,14.32,788
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Cuba,LATAM,Technology,Samsung Office Telephone,177,4,54.96,9.28,789
+2011-02-26,2011-02-03,Second Class,Rob Lucas,Consumer,El Salvador,LATAM,Office Supplies,Elite Shears,58,2,0.0,8.2,790
+2011-02-26,2011-04-03,Standard Class,Bobby Odegard,Consumer,Netherlands,EU,Technology,Motorola Headset,120,3,-40.68,7.74,791
+2011-02-26,2011-02-03,Standard Class,Lena Cacioppo,Consumer,China,APAC,Technology,Belkin Numeric Keypad,59,1,10.05,7.27,792
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Cuba,LATAM,Office Supplies,Acme Trimmer,55,2,1.64,4.86,793
+2011-02-26,2011-02-28,Second Class,Bill Stewart,Corporate,Nicaragua,LATAM,Furniture,Rubbermaid Clock,67,2,32.76,4.74,794
+2011-02-26,2011-02-03,Second Class,Rob Lucas,Consumer,El Salvador,LATAM,Office Supplies,Stanley Markers,47,3,17.34,3.89,795
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Cuba,LATAM,Technology,Memorex Mouse,52,3,18.66,3.68,796
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Brazil,LATAM,Technology,Samsung Office Telephone,71,4,-51.456,2.95,797
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Brazil,LATAM,Office Supplies,Acme Trimmer,22,2,-31.384,2.07,798
+2011-02-26,2011-02-03,Standard Class,Alan Haines,Corporate,Brazil,LATAM,Technology,Memorex Mouse,21,3,-12.516,1.87,799
+2011-02-26,2011-02-28,Second Class,Bill Stewart,Corporate,Nicaragua,LATAM,Office Supplies,Green Bar Parchment Paper,11,1,3.2,0.65,800
+2011-02-27,2011-06-03,Standard Class,Dennis Kane,Consumer,Iran,EMEA,Technology,Epson Phone,625,8,93.6,54.7,801
+2011-02-28,2011-03-03,First Class,Paul Stevenson,Home Office,South Korea,APAC,Office Supplies,Hamilton Beach Stove,811,3,-599.94,236.16,802
+2011-02-28,2011-03-03,First Class,Paul Stevenson,Home Office,South Korea,APAC,Furniture,Eldon Door Stop,401,10,-5.22,108.34,803
+2011-02-28,2011-02-28,Same Day,Sarah Brown,Consumer,Brazil,LATAM,Technology,Okidata Printer,358,2,110.96,64.95,804
+2011-02-28,2011-03-03,First Class,Paul Stevenson,Home Office,South Korea,APAC,Office Supplies,KitchenAid Microwave,311,2,-224.01,60.79,805
+2011-02-28,2011-03-03,First Class,Paul Stevenson,Home Office,South Korea,APAC,Furniture,Advantus Stacking Tray,140,7,6.804,50.88,806
+2011-02-28,2011-04-03,Second Class,Deborah Brumfield,Home Office,Philippines,APAC,Technology,Logitech Keyboard,120,3,10.8225,18.64,807
+2011-02-28,2011-03-03,First Class,Paul Stevenson,Home Office,South Korea,APAC,Technology,Belkin Memory Card,115,2,-50.55,16.32,808
+2011-02-28,2011-04-03,Second Class,Deborah Brumfield,Home Office,Philippines,APAC,Office Supplies,Wilson Jones 3,125,5,41.1825,7.71,809
+2011-02-28,2011-03-03,First Class,Joy Smith,Consumer,United States,US,Office Supplies,Zebra Zazzle Fluorescent Highlighters,19,4,3.4048,3.38,810
+2011-02-28,2011-07-03,Standard Class,Sally Hughsby,Corporate,Australia,APAC,Office Supplies,BIC Pencil Sharpener,18,1,-10.008,2.15,811
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Office Supplies,Fellowes File Cart,551,4,71.64,164.36,812
+2011-01-03,2011-06-03,Standard Class,Todd Sumrall,Corporate,United Kingdom,EU,Furniture,Safco Classic Bookcase,1,3,341.73,150.4,813
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Technology,Logitech Router,1,6,264.6,146.55,814
+2011-01-03,2011-05-03,Standard Class,Tom Boeckenhauer,Consumer,Germany,EU,Office Supplies,Hamilton Beach Toaster,364,8,45.456,80.67,815
+2011-01-03,2011-05-03,Standard Class,Vicky Freymann,Home Office,United States,US,Furniture,Novimex Swivel Fabric Task Chair,634,6,-172.1172,70.05,816
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Furniture,Harbour Creations Bag Chairs,246,4,105.96,65.81,817
+2011-01-03,2011-06-03,Standard Class,Todd Sumrall,Corporate,United Kingdom,EU,Furniture,Office Star Rocking Chair,705,5,288.75,64.4,818
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Office Supplies,Fellowes Lockers,1,6,211.5,60.78,819
+2011-01-03,2011-03-03,First Class,Katherine Hughes,Consumer,Australia,APAC,Technology,Panasonic Receipt Printer,215,2,7.158,55.67,820
+2011-01-03,2011-06-03,Second Class,Dave Brooks,Consumer,United States,US,Furniture,Global Deluxe High,458,2,51.4764,47.89,821
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Technology,Sharp Fax Machine,588,2,123.36,42.88,822
+2011-01-03,2011-07-03,Standard Class,Giulietta Weimer,Consumer,United States,US,Furniture,Bevis Round Conference Room Tables and Bases,377,3,-43.0296,32.7,823
+2011-01-03,2011-06-03,Standard Class,Todd Sumrall,Corporate,United Kingdom,EU,Office Supplies,BIC Sketch Pad,195,4,34.92,25.39,824
+2011-01-03,2011-05-03,Standard Class,Shahid Collister,Consumer,United States,US,Furniture,Harbour Creations Steel Folding Chair,362,6,0.0,25.22,825
+2011-01-03,2011-01-03,Same Day,Bryan Spruell,Home Office,Ukraine,EMEA,Furniture,Hon Steel Folding Chair,163,2,76.5,24.42,826
+2011-01-03,2011-01-03,Same Day,Bryan Spruell,Home Office,Ukraine,EMEA,Office Supplies,Fellowes Shelving,116,2,30.06,19.52,827
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Technology,Apple Speaker Phone,493,4,123.24,18.19,828
+2011-01-03,2011-08-03,Standard Class,Chris McAfee,Consumer,France,EU,Office Supplies,BIC Markers,107,4,29.88,16.48,829
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Technology,Konica Printer,266,1,79.86,16.22,830
+2011-01-03,2011-05-03,Standard Class,Randy Ferguson,Corporate,Japan,APAC,Furniture,Tenex Clock,352,7,59.64,15.91,831
+2011-01-03,2011-06-03,Standard Class,Logan Haushalter,Consumer,Indonesia,APAC,Furniture,Hon Swivel Stool,239,2,62.169,15.01,832
+2011-01-03,2011-06-03,Standard Class,Logan Haushalter,Consumer,Indonesia,APAC,Office Supplies,Kraft Peel and Seal,109,9,-74.4147,14.58,833
+2011-01-03,2011-05-03,Standard Class,Lori Olson,Corporate,Germany,EU,Technology,Belkin Keyboard,151,2,-5.058,14.22,834
+2011-01-03,2011-05-03,Standard Class,Logan Haushalter,Consumer,Australia,APAC,Technology,Cisco Signal Booster,92,1,-45.948,13.96,835
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Furniture,Safco Floating Shelf Set,197,1,86.55,12.33,836
+2011-01-03,2011-05-03,Standard Class,Tom Boeckenhauer,Consumer,Germany,EU,Office Supplies,Smead Shelving,118,3,36.684,11.43,837
+2011-01-03,2011-07-03,Standard Class,Giulietta Weimer,Consumer,United States,US,Office Supplies,Recycled Steel Personal File for Hanging File Folders,137,3,8.5845,8.49,838
+2011-01-03,2011-01-03,Same Day,Bryan Spruell,Home Office,Ukraine,EMEA,Office Supplies,Stanley Canvas,99,2,15.78,8.42,839
+2011-01-03,2011-05-03,Standard Class,Tom Boeckenhauer,Consumer,Germany,EU,Office Supplies,Fellowes Folders,63,3,23.76,8.22,840
+2011-01-03,2011-05-03,Standard Class,Shahid Collister,Consumer,United States,US,Office Supplies,Fellowes Bankers Box Recycled Super Stor/Drawer,130,3,-22.6716,8.0,841
+2011-01-03,2011-05-03,Standard Class,Shahid Collister,Consumer,United States,US,Furniture,DAX Black Cherry Wood,64,6,-34.9536,7.38,842
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Technology,StarTech Receipt Printer,221,2,15.48,6.87,843
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Office Supplies,Acco 3,30,1,2.73,6.7,844
+2011-01-03,2011-04-03,Second Class,Ed Ludwig,Home Office,Germany,EU,Technology,Epson Calculator,47,1,12.54,6.09,845
+2011-01-03,2011-03-03,First Class,Katherine Hughes,Consumer,Australia,APAC,Office Supplies,Acme Scissors,24,1,8.904,5.44,846
+2011-01-03,2011-05-03,Standard Class,Logan Haushalter,Consumer,Australia,APAC,Office Supplies,Xerox Parchment Paper,24,3,-7.632,3.9,847
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Office Supplies,Eldon Box,62,6,17.82,3.73,848
+2011-01-03,2011-06-03,Standard Class,Todd Sumrall,Corporate,United Kingdom,EU,Office Supplies,Sanford Pens,37,3,10.35,3.55,849
+2011-01-03,2011-04-03,Second Class,Ed Ludwig,Home Office,Germany,EU,Office Supplies,Binney & Smith Pens,147,12,0.0,3.35,850
+2011-01-03,2011-04-03,Second Class,Ed Ludwig,Home Office,Germany,EU,Office Supplies,Fellowes Shelving,102,2,35.238,3.3,851
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Office Supplies,OIC Push Pins,12,1,2.46,3.1,852
+2011-01-03,2011-04-03,First Class,Tom Prescott,Consumer,Canada,Canada,Office Supplies,Hon Shipping Labels,12,1,5.64,2.24,853
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Furniture,Novimex Bag Chairs,48,1,12.09,2.21,854
+2011-01-03,2011-05-03,Standard Class,Shahid Collister,Consumer,United States,US,Office Supplies,Plymouth Boxed Rubber Bands by Plymouth,19,5,-3.5325,2.05,855
+2011-01-03,2011-05-03,Standard Class,Vicky Freymann,Home Office,United States,US,Office Supplies,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",17,3,5.6784,1.94,856
+2011-01-03,2011-01-03,Same Day,Bryan Spruell,Home Office,Ukraine,EMEA,Office Supplies,Hon Round Labels,13,2,5.46,1.94,857
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Office Supplies,Tenex Box,17,1,7.41,1.14,858
+2011-01-03,2011-03-03,First Class,Katherine Hughes,Consumer,Australia,APAC,Office Supplies,Acco Hole Reinforcements,13,2,-1.164,1.05,859
+2011-01-03,2011-05-03,Standard Class,Brian DeCherney,Consumer,Australia,APAC,Office Supplies,Wilson Jones Hole Reinforcements,22,6,4.266,1.02,860
+2011-01-03,2011-05-03,Standard Class,Jeremy Farry,Consumer,Italy,EU,Office Supplies,Ibico Index Tab,18,2,3.18,0.97,861
+2011-01-03,2011-05-03,Standard Class,Ruben Dartt,Consumer,Ukraine,EMEA,Office Supplies,Tenex Box,31,2,14.28,0.81,862
+2011-01-03,2011-06-03,Standard Class,Edward Hooks,Corporate,Nigeria,Africa,Office Supplies,Hoover Toaster,25,1,-28.713,0.79,863
+2011-01-03,2011-05-03,Standard Class,Hallie Redmond,Home Office,United States,US,Technology,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,6,3,1.6038,0.42,864
+2011-02-03,2011-07-03,Standard Class,Chuck Clark,Home Office,Australia,APAC,Furniture,Ikea Corner Shelving,775,7,146.328,52.13,865
+2011-02-03,2011-07-03,Standard Class,Chuck Clark,Home Office,Australia,APAC,Furniture,Ikea 3,776,6,94.806,51.08,866
+2011-02-03,2011-02-03,Same Day,Mary Zewe,Corporate,Indonesia,APAC,Furniture,Office Star Executive Leather Armchair,682,2,186.9678,48.69,867
+2011-02-03,2011-06-03,Standard Class,Giulietta Dortch,Corporate,Australia,APAC,Furniture,Harbour Creations Steel Folding Chair,258,3,31.482,28.53,868
+2011-02-03,2011-02-03,Same Day,Mary Zewe,Corporate,Indonesia,APAC,Technology,Canon Wireless Fax,1,3,-34.083,27.16,869
+2011-02-03,2011-06-03,Standard Class,Natalie Webber,Consumer,Iraq,EMEA,Office Supplies,Rogers Lockers,211,1,52.65,21.46,870
+2011-02-03,2011-06-03,Standard Class,Nicole Hansen,Corporate,United States,US,Technology,Hypercom P1300 Pinpad,151,3,32.13,9.21,871
+2011-02-03,2011-07-03,Standard Class,Chuck Clark,Home Office,Australia,APAC,Office Supplies,Acco Binder Covers,107,8,16.464,7.66,872
+2011-02-03,2011-06-03,Standard Class,Frank Hawley,Corporate,Cuba,LATAM,Office Supplies,Enermax Message Books,36,2,14.2,2.25,873
+2011-02-03,2011-08-03,Standard Class,Kristina Nunn,Home Office,United States,US,Office Supplies,Array Parchment Paper,36,5,17.472,2.18,874
+2011-02-03,2011-07-03,Standard Class,Chuck Clark,Home Office,Australia,APAC,Office Supplies,Stanley Markers,46,2,4.524,1.46,875
+2011-02-03,2011-08-03,Standard Class,Kristina Nunn,Home Office,United States,US,Office Supplies,Staples,11,2,5.3392,0.94,876
+2011-02-03,2011-06-03,Standard Class,Nicole Hansen,Corporate,United States,US,Office Supplies,Xerox 1971,3,1,1.07,0.41,877
+2011-03-03,2011-05-03,Second Class,Scot Coram,Corporate,Albania,EMEA,Technology,StarTech Card Printer,1,10,258.9,301.73,878
+2011-03-03,2011-08-03,Second Class,Mike Vittorini,Consumer,Bangladesh,APAC,Furniture,Harbour Creations Swivel Stool,1,6,65.7,100.65,879
+2011-03-03,2011-05-03,Second Class,Mitch Willingham,Corporate,Dominican Republic,LATAM,Furniture,Office Star Executive Leather Armchair,752,3,56.352,70.49,880
+2011-03-03,2011-07-03,Standard Class,Ben Wallace,Consumer,Morocco,Africa,Technology,Panasonic Inkjet,311,1,90.03,48.52,881
+2011-03-03,2011-07-03,Standard Class,Ben Wallace,Consumer,Morocco,Africa,Technology,StarTech Inkjet,598,2,263.04,43.14,882
+2011-03-03,2011-09-03,Standard Class,Sandra Flanagan,Consumer,Romania,EMEA,Technology,Konica Receipt Printer,489,4,97.8,36.03,883
+2011-03-03,2011-10-03,Standard Class,Cari Schnelling,Consumer,Honduras,LATAM,Technology,Sharp Fax Machine,825,7,-389.1594,35.2,884
+2011-03-03,2011-08-03,Standard Class,Jill Stevenson,Corporate,United States,US,Furniture,O'Sullivan 4,302,5,-199.617,34.51,885
+2011-03-03,2011-07-03,Standard Class,Eva Jacobs,Consumer,United States,US,Furniture,Bevis Oval Conference Table,626,3,-23.4882,32.55,886
+2011-03-03,2011-09-03,Standard Class,Sandra Flanagan,Consumer,Romania,EMEA,Furniture,Dania Stackable Bookrack,492,4,4.8,27.75,887
+2011-03-03,2011-08-03,Standard Class,Anne Pryor,Home Office,United States,US,Office Supplies,Ibico Laser Imprintable Binding System Covers,126,3,40.872,22.16,888
+2011-03-03,2011-10-03,Standard Class,Cari Schnelling,Consumer,Honduras,LATAM,Technology,Samsung Audio Dock,334,5,-200.24,19.72,889
+2011-03-03,2011-08-03,Second Class,Mike Vittorini,Consumer,Bangladesh,APAC,Technology,HP Copy Machine,731,3,160.83,18.07,890
+2011-03-03,2011-07-03,Standard Class,Anne Pryor,Home Office,Egypt,Africa,Office Supplies,KitchenAid Coffee Grinder,140,2,57.3,11.09,891
+2011-03-03,2011-07-03,Standard Class,Sam Craven,Consumer,United States,US,Office Supplies,3.6 Cubic Foot Counter Height Office Refrigerator,177,3,-459.6072,10.65,892
+2011-03-03,2011-09-03,Standard Class,Christopher Conant,Consumer,Algeria,Africa,Furniture,Eldon Frame,113,1,29.43,9.51,893
+2011-03-03,2011-10-03,Standard Class,Astrea Jones,Consumer,Nigeria,Africa,Office Supplies,Smead Lockers,119,2,-99.27,9.39,894
+2011-03-03,2011-09-03,Standard Class,Sandra Flanagan,Consumer,Romania,EMEA,Technology,Apple Speaker Phone,126,1,27.75,7.47,895
+2011-03-03,2011-09-03,Standard Class,David Philippe,Consumer,Italy,EU,Office Supplies,OIC Clamps,58,3,28.8,6.89,896
+2011-03-03,2011-07-03,Standard Class,Thais Sissman,Consumer,Israel,EMEA,Technology,Memorex Keyboard,69,1,1.38,5.58,897
+2011-03-03,2011-06-03,Second Class,Roger Barcio,Home Office,France,EU,Office Supplies,Tenex Folders,42,2,10.656,3.77,898
+2011-03-03,2011-06-03,Second Class,Roger Barcio,Home Office,France,EU,Office Supplies,Wilson Jones 3,59,2,12.36,3.1,899
+2011-03-03,2011-08-03,Standard Class,Anne Pryor,Home Office,United States,US,Office Supplies,Cardinal HOLDit! Binder Insert Strips,25,5,9.1785,2.48,900
+2011-03-03,2011-09-03,Standard Class,Yana Sorensen,Corporate,Iran,EMEA,Office Supplies,Rogers Folders,31,1,4.35,2.2,901
+2011-03-03,2011-10-03,Standard Class,Astrea Jones,Consumer,Nigeria,Africa,Furniture,Hon Bag Chairs,57,4,-91.512,2.08,902
+2011-03-03,2011-08-03,Standard Class,Jill Stevenson,Corporate,United States,US,Office Supplies,Eldon Shelf Savers Cubes and Bins,45,8,-10.0512,1.94,903
+2011-03-03,2011-10-03,Standard Class,Cari Schnelling,Consumer,Honduras,LATAM,Office Supplies,Stockwell Rubber Bands,16,3,-9.552,1.74,904
+2011-03-03,2011-08-03,Standard Class,Jill Stevenson,Corporate,United States,US,Office Supplies,Avery 495,15,3,4.914,1.37,905
+2011-03-03,2011-10-03,Standard Class,Cari Schnelling,Consumer,Honduras,LATAM,Office Supplies,Hon File Folder Labels,8,3,-0.672,1.23,906
+2011-03-03,2011-07-03,Standard Class,Chris Cortes,Consumer,Honduras,LATAM,Office Supplies,GlobeWeis Manila Envelope,12,1,-6.608,1.07,907
+2011-03-03,2011-07-03,Second Class,Ashley Jarboe,Consumer,United States,US,Office Supplies,Zebra Zazzle Fluorescent Highlighters,19,4,3.4048,1.05,908
+2011-03-03,2011-07-03,Standard Class,Anne Pryor,Home Office,Egypt,Africa,Office Supplies,Binney & Smith Pens,24,2,10.02,1.02,909
+2011-03-03,2011-08-03,Standard Class,Anne Pryor,Home Office,United States,US,Technology,PowerGen Dual USB Car Charger,10,1,4.5954,0.99,910
+2011-03-03,2011-07-03,Standard Class,Thais Sissman,Consumer,Israel,EMEA,Office Supplies,Advantus Paper Clips,14,1,6.39,0.39,911
+2011-04-03,2011-09-03,Standard Class,Brad Eason,Home Office,China,APAC,Technology,Cisco Audio Dock,555,3,0.0,83.22,912
+2011-04-03,2011-04-03,Same Day,Clay Ludtke,Consumer,United States,US,Office Supplies,Sensible Storage WireTech Storage Systems,355,5,17.745,74.5,913
+2011-04-03,2011-08-03,Standard Class,Darrin Martin,Consumer,Nicaragua,LATAM,Office Supplies,Ibico Binder,91,8,25.28,11.87,914
+2011-04-03,2011-08-03,Standard Class,Darrin Martin,Consumer,Nicaragua,LATAM,Office Supplies,Stiletto Shears,90,3,15.18,6.54,915
+2011-04-03,2011-09-03,Standard Class,Pierre Wener,Consumer,Turkey,EMEA,Technology,Panasonic Receipt Printer,94,2,-25.98,4.07,916
+2011-04-03,2011-08-03,Standard Class,John Lee,Consumer,Nigeria,Africa,Technology,Hewlett Personal Copier,43,1,-92.349,3.02,917
+2011-04-03,2011-09-03,Standard Class,Sanjit Chand,Consumer,United States,US,Office Supplies,BIC Brite Liner Highlighters,16,3,2.3328,1.31,918
+2011-05-03,2011-08-03,Second Class,Aimee Bixby,Consumer,United States,US,Technology,Logitech Wireless Gaming Headset G930,480,3,177.5889,55.01,919
+2011-05-03,2011-08-03,Second Class,Aimee Bixby,Consumer,United States,US,Office Supplies,Xerox 1891,98,2,45.9754,10.13,920
+2011-05-03,2011-08-03,Second Class,Aimee Bixby,Consumer,United States,US,Office Supplies,Newell 345,60,3,15.4752,8.02,921
+2011-05-03,2011-08-03,Second Class,Aimee Bixby,Consumer,United States,US,Office Supplies,GBC Wire Binding Combs,50,6,16.7508,7.52,922
+2011-05-03,2011-11-03,Standard Class,Shirley Daniels,Home Office,United Kingdom,EU,Office Supplies,BIC Canvas,102,2,-10.296,7.29,923
+2011-05-03,2011-12-03,Standard Class,Barry Pond,Corporate,Poland,EMEA,Office Supplies,Ibico Binder Covers,26,2,1.8,1.99,924
+2011-05-03,2011-08-03,Second Class,Aimee Bixby,Consumer,United States,US,Office Supplies,Acme Forged Steel Scissors with Black Enamel Handles,19,2,5.3998,1.91,925
+2011-06-03,2011-09-03,Second Class,Russell D'Ascenzo,Consumer,Guatemala,LATAM,Office Supplies,Cameo Mailers,127,5,29.2,15.77,926
+2011-06-03,2011-09-03,Second Class,Russell D'Ascenzo,Consumer,Guatemala,LATAM,Office Supplies,Avery Hole Reinforcements,8,2,1.48,0.69,927
+2011-07-03,2011-11-03,Standard Class,Maureen Gnade,Consumer,Saudi Arabia,EMEA,Technology,Logitech Memory Card,1,10,20.1,137.14,928
+2011-07-03,2011-12-03,Standard Class,Craig Molinari,Corporate,United States,US,Furniture,Global Leather and Oak Executive Chair,482,2,54.1764,42.74,929
+2011-07-03,2011-12-03,Standard Class,Craig Molinari,Corporate,United States,US,Furniture,Office Star ,437,6,21.8352,38.45,930
+2011-07-03,2011-11-03,Standard Class,Paul Gonzalez,Consumer,Guatemala,LATAM,Office Supplies,Rogers Lockers,846,6,25.32,35.98,931
+2011-07-03,2011-08-03,First Class,Toby Swindell,Consumer,France,EU,Office Supplies,BIC Canvas,108,2,36.66,16.03,932
+2011-07-03,2011-08-03,First Class,Aaron Bergman,Consumer,United States,US,Furniture,Global Push Button Manager's Chair,49,1,5.4801,11.13,933
+2011-07-03,2011-12-03,Standard Class,Craig Molinari,Corporate,United States,US,Office Supplies,"Contico 72""H Heavy",205,5,0.0,10.65,934
+2011-07-03,2011-11-03,Standard Class,Maureen Gnade,Consumer,Saudi Arabia,EMEA,Office Supplies,Advantus Push Pins,58,4,2.28,9.01,935
+2011-07-03,2011-11-03,Second Class,Nora Pelletier,Home Office,United States,US,Office Supplies,Catalog Binders with Expanding Posts,108,2,33.64,6.44,936
+2011-07-03,2011-11-03,Standard Class,Maureen Gnade,Consumer,Saudi Arabia,EMEA,Technology,Motorola Office Telephone,75,1,19.38,6.38,937
+2011-07-03,2011-11-03,Standard Class,Maureen Gnade,Consumer,Saudi Arabia,EMEA,Office Supplies,Ibico Binder,31,2,8.64,4.62,938
+2011-07-03,2011-08-03,First Class,Aaron Bergman,Consumer,United States,US,Office Supplies,Newell 330,18,3,4.6644,4.29,939
+2011-07-03,2011-10-03,Second Class,Naresj Patel,Consumer,Bangladesh,APAC,Furniture,Dania Stackable Bookrack,122,1,44.97,3.96,940
+2011-07-03,2011-03-14,Standard Class,Bart Watters,Corporate,Cameroon,Africa,Office Supplies,Rogers Box,24,1,0.45,2.11,941
+2011-07-03,2011-03-14,Standard Class,Bart Watters,Corporate,Cameroon,Africa,Office Supplies,Smead Box,11,1,0.0,1.44,942
+2011-07-03,2011-08-03,First Class,Aaron Bergman,Consumer,United States,US,Office Supplies,"Carina 42""Hx23 3/4""W Media Storage Unit",243,3,4.8588,1.28,943
+2011-07-03,2011-11-03,Standard Class,Paul Gonzalez,Consumer,Guatemala,LATAM,Office Supplies,Cameo Clasp Envelope,16,2,2.04,1.05,944
+2011-07-03,2011-12-03,Standard Class,Craig Molinari,Corporate,United States,US,Office Supplies,Newell Chalk Holder,21,5,9.499,0.52,945
+2011-08-03,2011-03-13,Standard Class,Greg Tran,Consumer,El Salvador,LATAM,Furniture,Harbour Creations Executive Leather Armchair,2,9,1313.28,145.5,946
+2011-08-03,2011-12-03,Second Class,Jim Radford,Consumer,Australia,APAC,Technology,Apple Signal Booster,861,7,143.325,142.19,947
+2011-08-03,2011-03-13,Standard Class,Steve Carroll,Home Office,Cambodia,APAC,Furniture,Chromcraft Computer Table,1,3,292.59,78.66,948
+2011-08-03,2011-03-13,Standard Class,Greg Tran,Consumer,El Salvador,LATAM,Office Supplies,Hoover Toaster,619,11,284.46,49.07,949
+2011-08-03,2011-12-03,Standard Class,David Kendrick,Corporate,Philippines,APAC,Technology,Cisco Office Telephone,543,9,-7.425,40.48,950
+2011-08-03,2011-03-13,Standard Class,Steve Carroll,Home Office,Cambodia,APAC,Technology,HP Fax Machine,900,3,296.91,34.24,951
+2011-08-03,2011-03-14,Standard Class,Georgia Rosenberg,Corporate,Nigeria,Africa,Technology,Canon Fax Machine,384,4,-575.724,29.68,952
+2011-08-03,2011-12-03,Standard Class,David Kendrick,Corporate,Philippines,APAC,Technology,Nokia Smart Phone,954,2,38.145,20.84,953
+2011-08-03,2011-08-03,Same Day,Corey Roper,Home Office,Panama,LATAM,Technology,Sharp Personal Copier,144,3,9.12,16.2,954
+2011-08-03,2011-12-03,Second Class,Jim Radford,Consumer,Australia,APAC,Technology,Apple Signal Booster,124,1,39.996,10.9,955
+2011-08-03,2011-12-03,Second Class,Jim Radford,Consumer,Australia,APAC,Technology,SanDisk Mouse,143,4,-12.804,9.83,956
+2011-08-03,2011-03-14,Standard Class,Georgia Rosenberg,Corporate,Nigeria,Africa,Technology,Konica Printer,80,1,-106.515,9.76,957
+2011-08-03,2011-03-13,Standard Class,Luke Weiss,Consumer,Germany,EU,Office Supplies,Advantus Clamps,117,7,15.12,9.69,958
+2011-08-03,2011-12-03,Second Class,Jim Radford,Consumer,Australia,APAC,Technology,Panasonic Calculator,317,7,13.944,9.56,959
+2011-08-03,2011-03-14,Standard Class,Jeremy Farry,Consumer,Georgia,EMEA,Furniture,Rubbermaid Stacking Tray,101,4,31.2,8.43,960
+2011-08-03,2011-03-13,Second Class,Joe Kamberova,Consumer,Poland,EMEA,Technology,Belkin Mouse,41,1,6.12,7.1,961
+2011-08-03,2011-03-13,Standard Class,Steve Carroll,Home Office,Cambodia,APAC,Office Supplies,Kleencut Ruler,76,5,18.15,5.5,962
+2011-08-03,2011-12-03,Standard Class,Dennis Kane,Consumer,Canada,Canada,Office Supplies,Ibico 3,60,2,23.88,5.0,963
+2011-08-03,2011-11-03,First Class,Maurice Satty,Consumer,Argentina,LATAM,Office Supplies,Stockwell Thumb Tacks,16,3,-0.864,4.07,964
+2011-08-03,2011-03-13,Standard Class,Steve Carroll,Home Office,Cambodia,APAC,Office Supplies,Acco Binder,88,6,20.16,3.76,965
+2011-08-03,2011-10-03,Second Class,Kalyca Meade,Corporate,Indonesia,APAC,Office Supplies,SanDisk Computer Printout Paper,72,4,-63.7884,3.05,966
+2011-08-03,2011-03-14,Standard Class,Georgia Rosenberg,Corporate,Nigeria,Africa,Office Supplies,Acco Binding Machine,31,2,-41.946,2.94,967
+2011-08-03,2011-03-14,Standard Class,Jeremy Farry,Consumer,Georgia,EMEA,Office Supplies,Stockwell Rubber Bands,17,1,7.26,1.06,968
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,Sanford Canvas,51,1,6.6,17.69,969
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,Wilson Jones Binding Machine,50,1,0.99,14.53,970
+2011-09-03,2011-03-13,Standard Class,Saphhira Shifley,Corporate,Australia,APAC,Furniture,Tenex Light Bulb,103,6,-1.314,9.12,971
+2011-09-03,2011-12-03,First Class,Janet Lee,Consumer,Spain,EU,Office Supplies,Kraft Interoffice Envelope,94,2,20.64,7.7,972
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,Novimex Color Coded Labels,41,4,19.32,5.88,973
+2011-09-03,2011-12-03,First Class,Janet Lee,Consumer,Spain,EU,Office Supplies,BIC Pencil Sharpener,97,3,36.63,5.83,974
+2011-09-03,2011-12-03,First Class,Janet Lee,Consumer,Spain,EU,Technology,Sharp Ink,126,1,59.13,4.1,975
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,Binney & Smith Highlighters,17,1,6.06,2.83,976
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,Novimex Shipping Labels,11,1,4.83,2.64,977
+2011-09-03,2011-12-03,First Class,Janet Lee,Consumer,Spain,EU,Office Supplies,Tenex Folders,104,5,26.64,0.8,978
+2011-09-03,2011-12-03,First Class,Anna Gayman,Consumer,South Africa,Africa,Office Supplies,OIC Paper Clips,29,2,7.56,0.5,979
+2011-10-03,2011-12-03,First Class,Bryan Mills,Consumer,China,APAC,Technology,Brother Fax Machine,1,4,382.2,248.59,980
+2011-10-03,2011-10-03,Same Day,Tonja Turnell,Home Office,Germany,EU,Technology,Motorola Audio Dock,520,3,202.77,89.92,981
+2011-10-03,2011-03-17,Standard Class,Kean Thornton,Consumer,United States,US,Office Supplies,Tennsco 6,636,3,-15.9102,80.79,982
+2011-10-03,2011-03-16,Standard Class,Joy Smith,Consumer,China,APAC,Furniture,SAFCO Rocking Chair,1,8,252.24,56.33,983
+2011-10-03,2011-03-17,Standard Class,Kean Thornton,Consumer,United States,US,Office Supplies,BOSTON Ranger #55 Pencil Sharpener,83,4,9.3564,15.56,984
+2011-10-03,2011-03-14,Standard Class,Katherine Ducich,Consumer,Brazil,LATAM,Furniture,Harbour Creations Steel Folding Chair,201,3,7.98,13.13,985
+2011-10-03,2011-03-14,Standard Class,Anna Gayman,Consumer,United Kingdom,EU,Furniture,Harbour Creations Chairmat,74,2,-17.91,9.12,986
+2011-10-03,2011-03-15,Standard Class,Tanja Norvell,Home Office,Brazil,LATAM,Office Supplies,Tenex Folders,63,4,1.2,5.25,987
+2011-10-03,2011-03-16,Standard Class,Becky Castell,Home Office,Turkey,EMEA,Technology,Motorola Speaker Phone,52,1,-64.242,5.02,988
+2011-10-03,2011-03-16,Standard Class,Becky Castell,Home Office,Turkey,EMEA,Office Supplies,Sanford Markers,38,4,-54.648,2.92,989
+2011-10-03,2011-03-17,Standard Class,Bill Tyler,Corporate,United Kingdom,EU,Office Supplies,OIC Thumb Tacks,28,2,10.38,1.64,990
+2011-10-03,2011-03-14,Standard Class,Scott Williamson,Consumer,United States,US,Office Supplies,Geographics Note Cards,22,2,10.7424,1.48,991
+2011-10-03,2011-03-16,Standard Class,Becky Castell,Home Office,Turkey,EMEA,Technology,Konica Calculator,20,1,-10.248,1.36,992
+2011-11-03,2011-03-13,Second Class,Peter McVee,Home Office,Iran,EMEA,Technology,Motorola Smart Phone,643,1,244.2,285.83,993
+2011-11-03,2011-03-13,Second Class,Filia McAdams,Corporate,United States,US,Technology,Panasonic KX,588,3,164.6316,95.0,994
+2011-11-03,2011-03-14,First Class,Maureen Fritzler,Corporate,Germany,EU,Office Supplies,Cardinal 3,229,9,27.756,38.8,995
